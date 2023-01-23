@@ -1,0 +1,4027 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:angelicarbiter@yahoo.com
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20131024T020000Z
+DTEND:20131024T030000Z
+DTSTAMP:20230121T013419Z
+UID:ngqpbvco94bonqe9739l2qau34@google.com
+CREATED:20131028T211635Z
+LAST-MODIFIED:20131028T211636Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:.g'.gp.\,g\;tg\;
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131023T030000Z
+DTEND:20131023T040000Z
+DTSTAMP:20230121T013419Z
+UID:tu6dc01ojgojd6klqmpo2unggg@google.com
+CREATED:20131028T212854Z
+LAST-MODIFIED:20131028T212854Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:G66gg
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Chicago:20131031T040000
+DTEND;TZID=America/Chicago:20141029T040000
+EXDATE;TZID=America/Chicago:20151031T040000
+EXDATE;TZID=America/Chicago:20161031T040000
+RRULE:FREQ=YEARLY;WKST=SU;UNTIL=20161031T090000Z
+DTSTAMP:20230121T013419Z
+UID:hg4m214b7hf5na45m2ckbamahg@google.com
+CREATED:20131028T211635Z
+DESCRIPTION:Y0
+LAST-MODIFIED:20161218T163100Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hu7/\;7/8l7
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170714T203904Z
+DTEND:20170714T210516Z
+DTSTAMP:20230121T013419Z
+UID:2luoqq1tpt240jmufhe3vfbk1g@google.com
+CREATED:20170714T204722Z
+DESCRIPTION:Walk (About 3 min)\n\nTake L1 Hospital de Bellvitge departing a
+ t (null)\, get off at Pl. Catalunya (3 minutes\, 2 stops).\n\nWalk (About 2
+  min)\n\nTake L7 Av Tibidabo departing at 22:57\, get off at Provença (2 mi
+ nutes\, 1 stop).\n\nWalk (About 6 min)\n\nhttps://goo.gl/maps/SojT4Zy6kdo
+LAST-MODIFIED:20170714T204722Z
+LOCATION:Arc de Triomf
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Travel to Dry Martini
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181127T140000Z
+DTEND:20181127T143000Z
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=anewton@vetjobs.org:mailto:anewton@vetjobs.org
+UID:9t3mmu5g7b3a5fgfiki3pkkohk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=anewto
+ n@vetjobs.org;X-NUM-GUESTS=0:mailto:anewton@vetjobs.org
+CREATED:20181126T204654Z
+DESCRIPTION:Event Name: 30 Minute Meeting\n\nNeed to make changes to this e
+ vent?\nCancel: https://calendly.com/cancellations/GEFUQQQBTK5WNB2G\nResched
+ ule: https://calendly.com/reschedulings/GEFUQQQBTK5WNB2G\n\nPowered by Cale
+ ndly.com\n
+LAST-MODIFIED:20181126T204656Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:andre johnson and Amy Newton
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181204T150000Z
+DTEND:20181204T190000Z
+DTSTAMP:20230121T013419Z
+UID:2u8jiqerecmp91jv0f7rec7vbc@google.com
+CREATED:20181204T041059Z
+DESCRIPTION:
+LAST-MODIFIED:20181204T041059Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181205T150000Z
+DTEND:20181206T000000Z
+DTSTAMP:20230121T013419Z
+UID:18vob8jbj427aksdqcf8ov407o@google.com
+CREATED:20181204T041147Z
+DESCRIPTION:
+LAST-MODIFIED:20181204T041218Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181207T200000Z
+DTEND:20181208T050000Z
+DTSTAMP:20230121T013419Z
+UID:qp9214q5gnrbru2j161m4d44d8@google.com
+CREATED:20181204T041244Z
+DESCRIPTION:
+LAST-MODIFIED:20181204T041244Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T200000Z
+DTEND:20181209T050000Z
+DTSTAMP:20230121T013419Z
+UID:8nm8rd5aanhv1cd0bgjri038mc@google.com
+CREATED:20181204T041305Z
+DESCRIPTION:
+LAST-MODIFIED:20181204T041317Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190402T143000Z
+DTEND:20190402T153000Z
+DTSTAMP:20230121T013419Z
+UID:b5fgh6cgamjne0aeeqk9072qio@google.com
+CREATED:20190329T170804Z
+DESCRIPTION:
+LAST-MODIFIED:20190329T170804Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interview
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190503T151500Z
+DTEND:20190503T153500Z
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=cinman@hireheroesusa.org:mailto:cinman@hireheroesusa.org
+UID:177jcd2pp137mksjv5uon94acl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cinman
+ @hireheroesusa.org;X-NUM-GUESTS=0:mailto:cinman@hireheroesusa.org
+CREATED:20190501T171014Z
+DESCRIPTION:We will use this phone call to review your employment needs and
+  goals\, as well as the services that Hire Heroes USA offers. Please make s
+ ure you are in a distraction-free environment for this phone. If for some r
+ eason\, this time does not work for you\, please let me know at cinman@hire
+ heroesusa.org. 
+LAST-MODIFIED:20190503T151701Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Andre Johnson Hire Heroes USA Initial Assessment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190523T110000Z
+DTEND:20190523T111500Z
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=cinman@hireheroesusa.org:mailto:cinman@hireheroesusa.org
+UID:350hrntl8gh0dluff4af0lpa2d@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cinman
+ @hireheroesusa.org;X-NUM-GUESTS=0:mailto:cinman@hireheroesusa.org
+CREATED:20190503T154310Z
+DESCRIPTION:We will use this phone call to discuss any questions you have a
+ bout the private sector resume\, as well as next steps for your job search\
+ , including a federal resume review\, a mock interview\, career counseling\
+ , profile on our job board\, as well as upcoming virtual events. I will cal
+ l you at the number on file. 
+LAST-MODIFIED:20190503T154312Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Andre Johnson Hire Heroes USA Follow Up Call
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190805T130000Z
+DTEND:20190805T140000Z
+DTSTAMP:20230121T013419Z
+UID:a2kjpfulq50uj4iqfvqronpmn4@google.com
+CREATED:20190805T024519Z
+DESCRIPTION:
+LAST-MODIFIED:20190805T024519Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Work orientation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201001T200000Z
+DTEND:20201001T210000Z
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=benjamin.recycl3dprint@gmail.com:mailto:benjamin.recycl3dprint
+ @gmail.com
+UID:50tsaru3iqj9g9ltpa484ksaq2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=benjam
+ in.recycl3dprint@gmail.com;X-NUM-GUESTS=0:mailto:benjamin.recycl3dprint@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ an.casas@recycl3dprint.com;X-NUM-GUESTS=0:mailto:juan.casas@recycl3dprint.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/vty-zgoh-pja
+CREATED:20201001T143645Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/vt
+ y-zgoh-pja\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201001T143646Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Call recycl3dprint and Andre
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220422T173000Z
+DTEND:20220422T174500Z
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=noelle.hori@cobalt.io:mailto:noelle.hori@cobalt.io
+UID:sr4eju6ldlk20609t6lbb643pk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=noelle
+ .hori@cobalt.io;X-NUM-GUESTS=0:mailto:noelle.hori@cobalt.io
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220415T193026Z
+DESCRIPTION:Event Name: 48h - Technical Skills Test\n\nPlease define the st
+ art day of your technical skills test. You'll receive the link on the defin
+ ed start date and you'll have access to the test site for 48h.\n\nLocation:
+  Technical Skills Test\n\nCancellation Policy: You have access for 48 hours
+  and we only allow to reschedule the test a single time with a reasonable e
+ xplanation. So please make sure you're available after/on the start date to
+  work on the test environment.\n\nNeed to make changes to this event?\nCanc
+ el: https://calendly.com/cancellations/50d13389-5c52-4661-8174-6f131951f3e5
+ \nReschedule: https://calendly.com/reschedulings/50d13389-5c52-4661-8174-6f
+ 131951f3e5\n\nPowered by Calendly.com\n
+LAST-MODIFIED:20220415T193027Z
+LOCATION:Technical Skills Test
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Andre Johnson  and Noelle Hori
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230112
+DTEND;VALUE=DATE:20230113
+RRULE:FREQ=MONTHLY;UNTIL=20230208;BYDAY=2TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:d387t6bg30b9b23rsghib6mua8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220804T151538Z
+DESCRIPTION:70 40 1669474<br><b><br>See the new special instructions attach
+ ment.<br></b><br><b>Take photos by the dumpsters and email them to our offi
+ ce: <a href="mailto:contact@inspectionsr.us">contact@inspectionsr.us</a>.</
+ b><br><br><b>Make sure to go down the driveways in front of the people's tr
+ ailers to look for rubbish</b>.<b><br></b><br>Property Management Company: 
+ Associa Hill Country<br>Community Name: Nameless Hollow<br>Unit Count: 70 C
+ ondominiums (35 buildings)<br>Gate Code: NA<br>Manager (Name and Email): We
+ ndy Harden - <a href="mailto:Wendy.Harden@associahillcountry.com">Wendy.Har
+ den@associahillcountry.com</a> &amp\;  Nataly Mendoza - Nataly.Mendoza@asso
+ ciahillcountry.com<br>Property Main Address (Address\, City\, State\, Zip):
+  23393 Nameless Rd\, Leander\, TX\, 78641<br>Trash/Recycling Day(s) – If it
+  is not a violation\, please state that: Not a violation<br>Inspection Freq
+ uency: twice a month<br>Please indicate if this property also needs monitor
+ ing by walking\, alleyways\, or both: NA<br>Days Exempt other than trash da
+ ys?<br>Last Inspection rotation/days between-Date we can start: ASAP<u></u>
+ <u></u><u></u>
+LAST-MODIFIED:20230112T204827Z
+LOCATION:23393 Nameless Rd\, Leander\, TX 78641\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:*Nameless Hollow - 70
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Nameless Hollow Onboarding - Deed Restriction 2022;FMTTYPE=
+ application/vnd.openxmlformats-officedocument.wordprocessingml.document:htt
+ ps://drive.google.com/open?id=1r-I2PHqH6ZtZ8OZ4WRi1X2N4McOPOQUN&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Nameless Hollow Special Instructions;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1LTH_XuDA-6-yNc2A6l
+ o7kkpFWS1dW2a7852t1Zswal8&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230112
+DTEND;VALUE=DATE:20230113
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:d387t6bg30b9b23rsghib6mua8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230112
+CREATED:20220804T151538Z
+DESCRIPTION:70 40 1669474<br><b><br>See the new special instructions attach
+ ment.<br></b><br><b>Take photos by the dumpsters and email them to our offi
+ ce: <a href="mailto:contact@inspectionsr.us">contact@inspectionsr.us</a>.</
+ b><br><br><b>Make sure to go down the driveways in front of the people's tr
+ ailers to look for rubbish</b>.<b><br></b><br>Property Management Company: 
+ Associa Hill Country<br>Community Name: Nameless Hollow<br>Unit Count: 70 C
+ ondominiums (35 buildings)<br>Gate Code: NA<br>Manager (Name and Email): We
+ ndy Harden - <a href="mailto:Wendy.Harden@associahillcountry.com">Wendy.Har
+ den@associahillcountry.com</a> &amp\;  Nataly Mendoza - Nataly.Mendoza@asso
+ ciahillcountry.com<br>Property Main Address (Address\, City\, State\, Zip):
+  23393 Nameless Rd\, Leander\, TX\, 78641<br>Trash/Recycling Day(s) – If it
+  is not a violation\, please state that: Not a violation<br>Inspection Freq
+ uency: twice a month<br>Please indicate if this property also needs monitor
+ ing by walking\, alleyways\, or both: NA<br>Days Exempt other than trash da
+ ys?<br>Last Inspection rotation/days between-Date we can start: ASAP<u></u>
+ <u></u><u></u>
+LAST-MODIFIED:20230112T204827Z
+LOCATION:23393 Nameless Rd\, Leander\, TX 78641\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:*Nameless Hollow - 70
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Nameless Hollow Onboarding - Deed Restriction 2022;FMTTYPE=
+ application/vnd.openxmlformats-officedocument.wordprocessingml.document:htt
+ ps://drive.google.com/open?id=1r-I2PHqH6ZtZ8OZ4WRi1X2N4McOPOQUN&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Nameless Hollow Special Instructions;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1LTH_XuDA-6-yNc2A6l
+ o7kkpFWS1dW2a7852t1Zswal8&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230117
+DTEND;VALUE=DATE:20230118
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:oq3i6p17lqos6o230eb0dsflfb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220929T184203Z
+DESCRIPTION:<u></u><br>238 70 01012022<b><u><br></u></b><br><b><u>***MUST U
+ SE THE SMARTWEBS APP ONLY***</u></b><u></u><br><u></u><b><u>Put in the queu
+ e only - Do not send</u></b><br><u></u><br><b>11/22/22 - </b> 3506 Aquamari
+ ne Dr. does have approval for that pool!<u></u><br>Property Management Comp
+ any: Associa Hill Country<br>Community Name: The Walsh Ranch<br>Unit Count:
+  238<br>Gate Code: n/a<br>Manager (Name and Email): Mika Price - <a href="m
+ ailto:Mika.Price@associahillcountry.com">Mika.Price@associahillcountry.com<
+ /a><u></u><br><u></u>Emily Douglas - <a href="mailto:EDouglas@associahillco
+ untry.com"><u>EDouglas@associahillcountry.com</u></a><br>Property Main Addr
+ ess (Address\, City\, State\, Zip): Walsh Ranch Blvd\, Round Rock\, TX\, 78
+ 681<br>Trash/Recycling Day(s) – If it is not a violation\, please state tha
+ t: violation\; Thursday is trash day.<br>Inspection Frequency: 2 times per 
+ month<br>Please indicate if this property also needs monitoring by walking\
+ , alleyways\, or both: no<br>Days Exempt other than trash days? holidays<br
+ >Last Inspection rotation/days between-Date we can start: immediately<u></u
+ ><u></u><u></u>
+LAST-MODIFIED:20230116T181359Z
+LOCATION:3939 Walsh Ranch Blvd\, Round Rock\, TX\, 78681
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:**The Walsh Ranch (SW) - R238
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Walsh Ranch Onboarding - Deed Restrictions;FMTTYPE=appl
+ ication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:/
+ /drive.google.com/open?id=1PltAoei_ayqduQm_VdgzmWbBykbsvQ83&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=The Walsh Ranch Special Instructions;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1Cu8bW5rq6he5wHw7X6
+ 72x9IGKzM11QeVPe__sUYaZSo&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230117
+DTEND;VALUE=DATE:20230118
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:pgp8p4l3s0eugs2np9m4tb27l0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220725T153749Z
+DESCRIPTION:54 40 01012022<b><br /></b><br /><b><br /></b><br /><u></u><b>*
+ *DO NOT give violations for basketball goals.</b><br /><br />Property Manag
+ ement Company: Associa Hill Country<br />Community Name: Thousand Oaks<br /
+ >Unit Count: 54<br />Gate Code: N/A<br />Manager (Name and Email):  Mika Pr
+ ice - <a href="mailto:Mika.Price@associahillcountry.com">Mika.Price@associa
+ hillcountry.com</a><u></u><br /><u></u>Emily Douglas - <a href="mailto:EDou
+ glas@associahillcountry.com"><u>EDouglas@associahillcountry.com</u></a><br 
+ />Property Main Address (Address\, City\, State\, Zip): Escarpment Way\, Ce
+ dar Park TX 78613<br />Trash/Recycling Day(s) – If it is not a violation\, 
+ please state that: Wednesday<br />Inspection Frequency: 1x per month<br />P
+ lease indicate if this property also needs monitoring by walking\, alleyway
+ s\, or both: None<br />Days Exempt other than trash days? None.<u></u>
+LAST-MODIFIED:20230116T181411Z
+LOCATION:200 Escarpment Way\, Escarpment Wy\, Cedar Park\, TX 78613\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Thousand Oaks - W54
+TRANSP:OPAQUE
+ATTACH;FILENAME=Thousand Oaks.docx;FMTTYPE=application/vnd.openxmlformats-o
+ fficedocument.wordprocessingml.document:https://drive.google.com/open?id=1X
+ jT9_HcqslGo-wbg0KaCvnk-3yMcpSLQ&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230119
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:n3bhhqcuo91qir7urme6171617_R20230118@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220801T185644Z
+DESCRIPTION:321 60 11152022<br /><br /><u></u><b>Going forward\, we need to
+  refrain from writing any violations for garbage bins on the side of homes 
+ for ONLY this community.</b><br /><br /><b>11/15/22</b> - Please do not ent
+ er a violation for an inoperable car to 5202 Sulfur Spring Drive Killeen\, 
+ TX 76542. This homeowner is trying to get this towed soon.<br /><br />Pleas
+ e do not violate 5208 Sulphur Springs for their trailer\, they are moving i
+ n.<br /> <br />6805 Rosita Drive received a violation for a trailer but say
+ s it is not their home. If the trailer is still present\, please make sure 
+ it is issued to the correct home!<b><br /></b><u></u><br /><u></u><u></u>Pr
+ operty Management Company: Associa Hill Country<br />Property Name: Spanish
+  Oaks<br /># Of Units: 321<br />Gate Code:<br />Manager (Name and Email): N
+ ataly Mendoza - <a href="mailto:Nataly.Mendoza@associahillcountry.com"><u>N
+ ataly.Mendoza@associahillcountry.com</u></a><br />Miriam Cocciante - <a hre
+ f="mailto:Miriam.Cocciante@associahillcountry.com"><u>Miriam.Cocciante@asso
+ ciahillcountry.com</u></a> <br />Property Main Address (Street\, City\, Sta
+ te\, Zip): 6606 Golden Oak\, Killeen\, TX<br />Trash/Recycling Day(s) – If 
+ it is not a violation\, please state that: Monday<br /># Of drives per mont
+ h: Twice a month<br />Days Exempt other than trash days?<br />Last Inspecti
+ on rotation/days between-Date we can start: Can start ASAP<u></u><u></u><u>
+ </u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230116T181448Z
+LOCATION:6606 Golden Oak Ln\, Killeen\, TX 76542\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:**Spanish Oaks - M321
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Spanish Oaks Onboarding - Deed Restriction ;FMTTYPE=applica
+ tion/pdf:https://drive.google.com/open?id=1AMvDJ19jC9e34JZrKfy4nDJE3RxamtcC
+ &authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230119
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:143fd14j87tbfl5ltmbnbinn0r@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230106T235226Z
+DESCRIPTION:13 25 01042023<a href="http://voice.google.com/calls?a=nc\,%2B1
+ 2501042023"></a><br /><br />Property Management Company: Associa Hill Count
+ ry<br />Community Name: Enclave Condominiums<br />Unit Count: 13<br />Gate 
+ Code: Security Guard on duty to allow access – State that you are there for
+  the Enclave – it’s a sub-association we manage within ‘The Hills’ – a mast
+ er association.<br />Manager (Name and Email): Holly.Skeen@Associa.us<br />
+ • Property Main Address (Address\, City\, State\, Zip): 41 Tree Haven\, Aus
+ tin\, TX 78738 (in Lakeway)<br />Trash/Recycling Day(s) – If it is not a vi
+ olation\, please state that: NOT A VIOLATION<br />Inspection Frequency: 1X 
+ PER MONTH<br />Please indicate if this property also needs monitoring by wa
+ lking\, alleyways\, or both:<br />Days Exempt other than trash days? No wee
+ kends<br />Last Inspection date/when can we begin inspections: anytime<br /
+ >
+LAST-MODIFIED:20230116T181511Z
+LOCATION:41 Tree Haven\, Austin\, TX 78738
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Enclave Condominiums - SS13
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=ENCAVE CONDOS Onboarding - Deed Restriction 2023;FMTTYPE=ap
+ plication/pdf:https://drive.google.com/open?id=14wG_vsGP9VGgxETXrAgj1-qSJxR
+ Nuett&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230119
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:3jga5ndmataq7iut0mqqk66u27@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T161730Z
+DESCRIPTION:295 80 01032023<br /><b>*Inspections should take place Wed\, Th
+ ursday\, or Friday.  </b>No Mon or Tuesday<br />inspections. <br /><br /><s
+ pan>Date: 1.3.2023</span><br />Property Management Company: Associa Hill Co
+ untry<br />Community Name: Bella Colinas Master Association HOA<br />Unit C
+ ount: 295<br />Gate Code: N/A<br />Manager (Name and Email): Wendy Harden <
+ a href="mailto:wendy.harden@associa.us">wendy.harden@associa.us</a><br />Pr
+ operty Main Address (Address\, City\, State\, Zip): Castana Bend\, Bee Cave
+ s\, Texas 78738<br />Trash/Recycling Day(s) – If it is not a violation\, pl
+ ease state that: Monday and Tuesday<br />Inspection Frequency: 2 times a mo
+ nth<br />Please indicate if this property also needs monitoring by walking\
+ , alleyways\, or both: N/A<br />Days Exempt other than trash days? Inspecti
+ ons should take place Wed\, Thursday\, or Friday. No Mon or Tuesday inspect
+ ions.<br />Last Inspection rotation/days between-Date we can start:<br />Th
+ e last inspection was on December 22nd\, 2022<br /><b>The next Inspection i
+ s due January 5th\, 2023</b>
+LAST-MODIFIED:20230116T181531Z
+LOCATION:5400 Castana Bend\, Bee Caves\, Texas 78738
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:**Bella Colinas Master Assoc. HOA - MT295
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Bella Colinas Master HOA Onboarding - Deed Restriction 2022
+ .pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=13oohfnWJCPCx
+ WOrGY8hkFTsBl9izxqpL&authuser=2
+ATTACH;FILENAME=Bella Colinas map 11.5.2018.jpg;FMTTYPE=image/jpeg:https://
+ drive.google.com/open?id=1BqdKMwHVFtiNbvBlkZmTAMweiKn4opin&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230119
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:3jga5ndmataq7iut0mqqk66u27@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230118
+CREATED:20230104T161730Z
+DESCRIPTION:295 80 01032023<br /><b>*Inspections should take place Wed\, Th
+ ursday\, or Friday.  </b>No Mon or Tuesday<br />inspections. <br /><br /><s
+ pan>Date: 1.3.2023</span><br />Property Management Company: Associa Hill Co
+ untry<br />Community Name: Bella Colinas Master Association HOA<br />Unit C
+ ount: 295<br />Gate Code: N/A<br />Manager (Name and Email): Wendy Harden <
+ a href="mailto:wendy.harden@associa.us">wendy.harden@associa.us</a><br />Pr
+ operty Main Address (Address\, City\, State\, Zip): Castana Bend\, Bee Cave
+ s\, Texas 78738<br />Trash/Recycling Day(s) – If it is not a violation\, pl
+ ease state that: Monday and Tuesday<br />Inspection Frequency: 2 times a mo
+ nth<br />Please indicate if this property also needs monitoring by walking\
+ , alleyways\, or both: N/A<br />Days Exempt other than trash days? Inspecti
+ ons should take place Wed\, Thursday\, or Friday. No Mon or Tuesday inspect
+ ions.<br />Last Inspection rotation/days between-Date we can start:<br />Th
+ e last inspection was on December 22nd\, 2022<br /><b>The next Inspection i
+ s due January 5th\, 2023</b>
+LAST-MODIFIED:20230116T181531Z
+LOCATION:5400 Castana Bend\, Bee Caves\, Texas 78738
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:**Bella Colinas Master Assoc. HOA - MT295
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Bella Colinas Master HOA Onboarding - Deed Restriction 2022
+ .pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=13oohfnWJCPCx
+ WOrGY8hkFTsBl9izxqpL&authuser=2
+ATTACH;FILENAME=Bella Colinas map 11.5.2018.jpg;FMTTYPE=image/jpeg:https://
+ drive.google.com/open?id=1BqdKMwHVFtiNbvBlkZmTAMweiKn4opin&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230119
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:0jhv0e3hli1qsdr9d808nhk5mu_R20230116@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230116
+CREATED:20220725T192926Z
+DESCRIPTION:31 50 07212022<br /><br /><u></u><u></u><u></u><u></u><u></u>Da
+ te: 7.21.2022<br />Property Management Company: Associa Hill Country<br />C
+ ommunity Name: Sage Creek HOA<br />Unit Count: 31<br />Gate Code: N/A<br />
+ Manager (Name and Email): Email all 3<u></u><br /><u></u>Nataly Mendoza - <
+ a href="mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@ass
+ ociahillcountry.com</u></a><br />Miriam Cocciante - <a href="mailto:Miriam.
+ Cocciante@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.co
+ m</u></a> <br />Property Main Address (Address\, City\, State\, Zip): 10700
+  Vista Heights Dr. Georgetown TX 78628<br />Trash/Recycling Day(s) – If it 
+ is not a violation\, please state that: Thursday<br />Inspection Frequency:
+  2 times per month<br />Please indicate if this property also needs monitor
+ ing by walking\, alleyways\, or both: N/A<br />Days Exempt other than trash
+  days? None<br />Last Inspection rotation/days between-Date we can start:<u
+ ></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230116T181823Z
+LOCATION:10700 Vista Heights Dr\, Georgetown\, TX 78628\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:**Sage Creek HOA - R31
+TRANSP:TRANSPARENT
+ATTACH;FILENAME= Sage Creek Onboarding - Deed Restriction ;FMTTYPE=applicat
+ ion/vnd.openxmlformats-officedocument.wordprocessingml.document:https://dri
+ ve.google.com/open?id=1I8EjehylT5oz6k89tBb7PPHFAv25PgJn&authuser=2
+ATTACH;FILENAME=Sage Creek HOA - Special Instructions;FMTTYPE=application/v
+ nd.google-apps.document:https://drive.google.com/open?id=1HS07xBgr_3ZjEAsZG
+ _6ZNI2u4YeVBUT9U1WrqgIBpKs&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230116
+DTEND;VALUE=DATE:20230117
+RRULE:FREQ=MONTHLY;BYDAY=3MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:0jhv0e3hli1qsdr9d808nhk5mu_R20230116@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220725T192926Z
+DESCRIPTION:31 50 07212022<br /><br /><u></u><u></u><u></u><u></u><u></u>Da
+ te: 7.21.2022<br />Property Management Company: Associa Hill Country<br />C
+ ommunity Name: Sage Creek HOA<br />Unit Count: 31<br />Gate Code: N/A<br />
+ Manager (Name and Email): Email all 3<u></u><br /><u></u>Nataly Mendoza - <
+ a href="mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@ass
+ ociahillcountry.com</u></a><br />Miriam Cocciante - <a href="mailto:Miriam.
+ Cocciante@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.co
+ m</u></a> <br />Property Main Address (Address\, City\, State\, Zip): 10700
+  Vista Heights Dr. Georgetown TX 78628<br />Trash/Recycling Day(s) – If it 
+ is not a violation\, please state that: Thursday<br />Inspection Frequency:
+  2 times per month<br />Please indicate if this property also needs monitor
+ ing by walking\, alleyways\, or both: N/A<br />Days Exempt other than trash
+  days? None<br />Last Inspection rotation/days between-Date we can start:<u
+ ></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230116T181823Z
+LOCATION:10700 Vista Heights Dr\, Georgetown\, TX 78628\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:**Sage Creek HOA - R31
+TRANSP:TRANSPARENT
+ATTACH;FILENAME= Sage Creek Onboarding - Deed Restriction ;FMTTYPE=applicat
+ ion/vnd.openxmlformats-officedocument.wordprocessingml.document:https://dri
+ ve.google.com/open?id=1I8EjehylT5oz6k89tBb7PPHFAv25PgJn&authuser=2
+ATTACH;FILENAME=Sage Creek HOA - Special Instructions;FMTTYPE=application/v
+ nd.google-apps.document:https://drive.google.com/open?id=1HS07xBgr_3ZjEAsZG
+ _6ZNI2u4YeVBUT9U1WrqgIBpKs&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230119
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:18igj3pj2a3u03eio9gldighp8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T171514Z
+DESCRIPTION:15 35 01032023<br /><br /><b>Wednesday-only Inspections</b><br 
+ /><br /><b>**This is also an alleyway and walking property.<br /></b><br />
+ Date: 1.3.2023<br />Property Management Company: Associa Hill Country<br />
+ Community Name: Santorini Villas Condominiums<br />Unit Count: 15<br />Gate
+  Code: N/A no-gate<br />Manager (Name and Email): Wendy Harden - <a href="m
+ ailto:wendy.harden@associa.us">wendy.harden@associa.us</a><br />Property Ma
+ in Address (Address\, City\, State\, Zip): 106 Cross Creek\, Lakeway\, Texa
+ s 78734<br />Trash/Recycling Day(s) – If it is not a violation\, please sta
+ te that: <b>Wednesday-only Inspections</b><br />Inspection Frequency: 1 tim
+ e a month<br />Please indicate if this property also needs monitoring by wa
+ lking\, alleyways\, or both: Both<br />Days Exempt other than trash days? W
+ ednesday only Inspections<br />Last Inspection rotation/days between-Date w
+ e can start:<br />The last inspection was completed on<b> December 15th\, 2
+ 022</b><br />Next Inspection is due January 2023
+LAST-MODIFIED:20230116T182138Z
+LOCATION:106 Cross Creek\, Lakeway\, TX 78734\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Santorini Villas Condominiums -MTRFSS - 15
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Santorini Villas Condominium HOA Onboarding - Deed Restrict
+ ion 2022.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=1phsl
+ _LlawNl2Yt1n58UUD3_kVwlg9HJ8&authuser=2
+ATTACH;FILENAME=Santorini Villas Map.JPG;FMTTYPE=image/jpeg:https://drive.g
+ oogle.com/open?id=1JDFyFTZ4o-9UT1H2TsUeyqvvM0FaZVrb&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230119
+DTEND;VALUE=DATE:20230120
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:hjf6albbe2soseek8q01nflirr_R20230119@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220728T173943Z
+DESCRIPTION:15 30 01012022<b><br /></b><br /><b><br /></b><br /><b>12/9/22 
+ </b>- <span>Please do not send any violations for </span><span>basketball g
+ oals. </span><span>This was approved earlier this year by the board.</span>
+ <br /><br /><u></u><u></u><u></u><u></u>Property Management Company: Associ
+ a Hill Country<br />Community Name: Hidden Trails<br />Unit Count: 15<br />
+ Gate Code: n/a<br />Manager (Name and Email): Lisa Paulk -  <a href="mailto
+ :Lisa.Paulk@associahillcountry.com">Lisa.Paulk@associahillcountry.com</a> <
+ u></u><br /><u></u>Emily Douglas - <a href="mailto:EDouglas@associahillcoun
+ try.com"><u>EDouglas@associahillcountry.com</u></a><br />Property Main Addr
+ ess (Address\, City\, State\, Zip): 4001 Oak Ridge Dr\, Round Rock\, TX 786
+ 81<br />Trash/Recycling Day(s) – If it is not a violation\, please state th
+ at: Wednesday<br />Inspection Frequency: twice a month<br />Please indicate
+  if this property also needs monitoring by walking\, alleyways\, or both: n
+ o<br />Days Exempt other than trash days?<br />Last Inspection rotation/day
+ s between-Date we can start: can start asap<u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230116T182404Z
+LOCATION:4001 Oak Ridge Dr\, Round Rock\, TX 78681\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:**Hidden Trails - W15
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Hidden Trails Onboarding - Deed Restriction;FMTTYPE=applica
+ tion/pdf:https://drive.google.com/open?id=13Sr9ivLd2-IsmDyZxkz3IWE1UdzbTT0I
+ &authuser=2
+ATTACH;FILENAME=HiddenTrails Address Plat.pdf;FMTTYPE=application/pdf:https
+ ://drive.google.com/open?id=1dJsd3ujMKDvsfnFkkI8nYsMHHrJWi1SZ&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230119
+DTEND;VALUE=DATE:20230120
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:2gm9m7tuop1u27dcaq9ga3v0hr_R20230119@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20221018T205925Z
+DESCRIPTION:6 35 10182022<br /><b><br /></b><br /><b>Please pay special att
+ ention to the pond area and send individual pictures to me at <a href="mail
+ to:gabrielle.hanson@associa.us">gabrielle.hanson@associa.us</a>. That is th
+ e only common area.</b><br /><br />Date: 10/18/22<br />Property Management 
+ Company: Associa Hill Country<br />Community Name: Crystal Falls Commercial
+  POA<br />Unit Count: 6<br />Gate Code: N/A<br />Manager: (Name and Email):
+  Gabrielle Hanson - <a href="mailto:gabrielle.hanson@associa.us">gabrielle.
+ hanson@associa.us</a><br />Property Main Address (Address\, City\, State\, 
+ Zip): 10741 East Crystal Falls Pkwy\, Leander\, TX 78641<br />Trash/Recycli
+ ng Day(s) – If it is not a violation\, please state that: NA<br />Inspectio
+ n Frequency: 1x month<br />Please indicate if this property also needs moni
+ toring by walking\, alleyways\, or both: Common area/walking.<br /><b>Pleas
+ e pay special attention to the pond area and send individual pictures to me
+ \, <a href="mailto:gabrielle.hanson@associa.us">gabrielle.hanson@associa.us
+ </a>. That is the only common area.</b><br />Days Exempt other than trash d
+ ays? n/a<br />Last Inspection rotation/days between-Date we can start: Now
+LAST-MODIFIED:20230116T182546Z
+LOCATION:10741 East Crystal Falls Pkwy\, Leander\, TX 78641
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Falls Commercial POA - 6
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Crystal Falls Commercial POA - Onboarding - Deed Restrictio
+ ns;FMTTYPE=application/vnd.openxmlformats-officedocument.wordprocessingml.d
+ ocument:https://drive.google.com/open?id=1pRUk2gHZZGKu_9x7rDUp7-7qztv4Fwr5&
+ authuser=1
+ATTACH;FILENAME=Crystal Falls Replat. recorded.pdf;FMTTYPE=application/pdf:
+ https://drive.google.com/open?id=122CXE4mdniU_HBsVkoo-A-u5NGlX-3QS&authuser
+ =1
+ATTACH;FILENAME="Recorded Crystal Falls Commercial Property Owners Associat
+ ion, Inc. - Community Manual.pdf";FMTTYPE=application/pdf:https://drive.goo
+ gle.com/open?id=1CWmMpQbHtNdqyYqIzWr5XsPzE3Rdm9hG&authuser=1
+ATTACH;FILENAME=Declaration of Easements and Restrictions.pdf;FMTTYPE=appli
+ cation/pdf:https://drive.google.com/open?id=1JEhgViAyWXG2oc_p-xarHTFSbfKOTP
+ 4r&authuser=1
+ATTACH;FILENAME=Community Manual.pdf;FMTTYPE=application/pdf:https://drive.
+ google.com/open?id=1mCTSRthpTTtt0-nqZ94uIaa5V6LHKPMI&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230121
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:40o1knvm1l9mviqgqdv570tj5h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T184848Z
+DESCRIPTION:52 40 01032023<br /><br /><b>*The board requests Friday inspect
+ ions</b><br /><br />Date: 1.03.2023<br />Property Management Company: Assoc
+ ia Hill Country<br />Community Name: N. Lakeway Village Section 6 HOA<br />
+ Unit Count: 52<br />Gate Code: #1565 (inspection must stop and enter code e
+ ach visit even if the gate is open)<br />Manager (Name and Email): Wendy Ha
+ rden <a href="mailto:wendy.harden@associa.us">wendy.harden@associa.us</a><b
+ r />Property Main Address (Address\, City\, State\, Zip): 101 Lake Como Dr.
+  Lakeway\, Texas 78734<br />Trash/Recycling Day(s) – If it is not a violati
+ on\, please state that: Wednesdays<br />Inspection Frequency: 2 times a mon
+ th<br />Please indicate if this property also needs monitoring by walking\,
+  alleyways\, or both: Drive only<br />Days Exempt other than trash days?<b>
+  The board requests Friday inspections</b><br />Last Inspection rotation/da
+ ys between-Date we can start:<br />The last inspection was completed on Dec
+ ember 22\, 2022<br /><b>The next inspection is due January 5\, 2023.</b><br
+  />
+LAST-MODIFIED:20230116T182706Z
+LOCATION:101 Lake Como Dr\, Austin\, TX 78734\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:**North Lakeway Village Section 6 HOA - W52
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=N. Lakeway Village Section 6 HOA Onboarding - Deed Restrict
+ ion 2022.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=19DDJ
+ RGQgRrEPW6L-OgvU5L4s-jYYhwFf&authuser=2
+ATTACH;FILENAME=N. Lakeway Village Section 6 HOA map.JPG;FMTTYPE=image/jpeg
+ :https://drive.google.com/open?id=1mvePOEcOIGrD7q2vWg2K9p_a8IMrIBEM&authuse
+ r=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230121
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:4b76cqg6frhplvohnmt1sonpml@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230106T035019Z
+DESCRIPTION:54 50 01042023<br><br><b>*Please drive Fridays</b><br><br><b>*T
+ his property Alleyways - </b>The board enforces backyard lawn maintenance\,
+  especially on Stone Terrace\, which can be seen from Farris Drive. I curre
+ ntly use the map view in C3 to navigate that area.<br><br>Date: 01/04/2023<
+ br>Property Management Company: Associa Hill Country<br>Community Name: Ter
+ race at the Preserve Condos<br>Unit Count: 54<br>Gate Code: N/A<br>Manager 
+ (Name and Email): TBD - Crystal Gant - <a href="mailto:Crystal.Gant@associa
+ .us">Crystal.Gant@associa.us</a><br>Property Main Address (Address\, City\,
+  State\, Zip): Stone Terrace Drive Austin\, TX 78734<br>Trash/Recycling Day
+ (s) – If it is not a violation\, please state that:<b> Please drive Fridays
+ </b><br>Inspection Frequency: Once a month<br>Please indicate if this prope
+ rty also needs monitoring by walking\, alleyways\, or both:<b> The board en
+ forces backyard lawn maintenance\, especially on Stone Terrace\, which can 
+ be seen from Farris Drive. I currently use the map view in C3 to navigate t
+ hat area.</b><br>Days Exempt other than trash days? N/A<br>Last Inspection 
+ date/when can we begin inspections: 12/9/22. Can begin immediately<b><br></
+ b>
+LAST-MODIFIED:20230116T182732Z
+LOCATION:Stone Terrace Drive Austin\, TX 78734
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Terrance at the Preserve Condos - 54Fonly
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Terrace at the Preserve Condos Onboarding 2022- Deed Restri
+ ction ;FMTTYPE=application/vnd.openxmlformats-officedocument.wordprocessing
+ ml.document:https://drive.google.com/open?id=1V7tC9uCgqLSjfS_NVOn-QFEXu4xYX
+ Ag9&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230121
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:96eq86s8l4d106u3qri9iglk6i_R20230120@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220725T193321Z
+DESCRIPTION:567 110 02022022<br /><b><u><br /></u></b><br /><u></u><u></u><
+ b><u>***MUST USE THE SMARTWEBS APP ONLY***</u></b><u></u><br /><u></u><b><u
+ >Put in the queue only - Do not send</u></b><br /><br />Property Management
+  Company: Associa Hill Country<b><u><br /></u></b>Community Name: Ryan’s Cr
+ ossing HOA<br />Unit Count: 567<br />Gate Code: N/A<br />Manager (Name and 
+ Email): Nataly Mendoza - <a href="mailto:Nataly.Mendoza@associahillcountry.
+ com"><u>Nataly.Mendoza@associahillcountry.com</u></a> &amp\;<br /><b>Gabrie
+ lle Hanson</b> - <a href="mailto:Gabrielle.Hanson@associa.us">Gabrielle.Han
+ son@associa.us</a><br />Property Main Address (Address\, City\, State\, Zip
+ ): 3400 Rod Carew Drive\, Round Rock TX 78665<br />Trash/Recycling Day(s) –
+  If it is not a violation\, please state that: Wednesday<br />Inspection Fr
+ equency: 2 times per month<br />Please indicate if this property also needs
+  monitoring by walking\, alleyways\, or both: N/A<br />Days Exempt other th
+ an trash days? Tuesdays as the trash can be set out.<br />Last Inspection r
+ otation/days between-Date we can start:<u></u><u></u><u></u><u></u><u></u><
+ u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230116T182929Z
+LOCATION:3400 Rod Carew Dr\, Round Rock\, TX 78665\, USA
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:**Ryan's Crossing HOA (SW) - TW567
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Ryan's Crossing Corrected HOA Onboarding - Deed Restriction
+  2022;FMTTYPE=application/vnd.openxmlformats-officedocument.wordprocessingm
+ l.document:https://drive.google.com/open?id=1DH1BBZAQSwoYJAMlHeEsP10zv-7ynd
+ w7&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Ryan’s Crossing HOA - Special Instructions;FMTTYPE=applicat
+ ion/vnd.google-apps.document:https://drive.google.com/open?id=14gX9shuKzZpg
+ 2i1RhaJuxL8aKvpSZawjopH1FOlkc6M&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230121
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:40o1knvm1l9mviqgqdv570tj5h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230120
+CREATED:20230104T184848Z
+DESCRIPTION:52 40 01032023<br /><br /><b>*The board requests Friday inspect
+ ions</b><br /><br />Date: 1.03.2023<br />Property Management Company: Assoc
+ ia Hill Country<br />Community Name: N. Lakeway Village Section 6 HOA<br />
+ Unit Count: 52<br />Gate Code: #1565 (inspection must stop and enter code e
+ ach visit even if the gate is open)<br />Manager (Name and Email): Wendy Ha
+ rden <a href="mailto:wendy.harden@associa.us">wendy.harden@associa.us</a><b
+ r />Property Main Address (Address\, City\, State\, Zip): 101 Lake Como Dr.
+  Lakeway\, Texas 78734<br />Trash/Recycling Day(s) – If it is not a violati
+ on\, please state that: Wednesdays<br />Inspection Frequency: 2 times a mon
+ th<br />Please indicate if this property also needs monitoring by walking\,
+  alleyways\, or both: Drive only<br />Days Exempt other than trash days?<b>
+  The board requests Friday inspections</b><br />Last Inspection rotation/da
+ ys between-Date we can start:<br />The last inspection was completed on Dec
+ ember 22\, 2022<br /><b>The next inspection is due January 5\, 2023.</b><br
+  />
+LAST-MODIFIED:20230116T191357Z
+LOCATION:101 Lake Como Dr\, Austin\, TX 78734\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:**North Lakeway Village Section 6 HOA - W52
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=N. Lakeway Village Section 6 HOA Onboarding - Deed Restrict
+ ion 2022.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=19DDJ
+ RGQgRrEPW6L-OgvU5L4s-jYYhwFf&authuser=2
+ATTACH;FILENAME=N. Lakeway Village Section 6 HOA map.JPG;FMTTYPE=image/jpeg
+ :https://drive.google.com/open?id=1mvePOEcOIGrD7q2vWg2K9p_a8IMrIBEM&authuse
+ r=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230123
+DTEND;VALUE=DATE:20230124
+RRULE:FREQ=MONTHLY;BYDAY=4MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:7mirti45jrngqtpvpm18gq4c8b@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230118T004845Z
+DESCRIPTION:600 140 01112023<br><br>Property Management Company: Associa Hi
+ ll Country<br>Community Name: Creekside Hills<br>Unit Count: 600 still deve
+ loping and will be 1000<br>Gate Code: NA<br>Manager (Name and Email): Ana R
+ odriguez - <a href="mailto:ana.rodriguez@associa.us">ana.rodriguez@associa.
+ us</a><br>Property Main Address (Address\, City\, State\, Zip): 2007 Wigeon
+  Wy\, Copperas Cove\, TX 76522<br>Trash/Recycling Day(s) – If it is not a v
+ iolation\, please state that: Tuesday<br>Inspection Frequency: once a month
+ <br>Please indicate if this property also needs monitoring by walking\, all
+ eyways\, or both:<br>Days Exempt other than trash days? None<br>Last Inspec
+ tion date/when can we begin inspections: December
+LAST-MODIFIED:20230118T163139Z
+LOCATION:2007 Wigeon Wy\, Copperas Cove\, TX 76522\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Creekside Hills - T600
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Creekside Hills Onboarding - Deed Restriction ;FMTTYPE=appl
+ ication/pdf:https://drive.google.com/open?id=1cW5znIPi-jH5mjbRo-FSn0slLv5rs
+ 0Jn&authuser=2
+ATTACH;FILENAME=Creekside HIlls CCR's Recorded 1.pdf;FMTTYPE=application/pd
+ f:https://drive.google.com/open?id=1lVKqEgI2ZmDMkd9bYvOME5qAOPNpwwyS&authus
+ er=2
+ATTACH;FILENAME=Creekside Hills CCR's Recorded 2.pdf;FMTTYPE=application/pd
+ f:https://drive.google.com/open?id=14scjwSXuvbqL8iX1DbVt6xNyH5mtSuyj&authus
+ er=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230117
+DTEND;VALUE=DATE:20230118
+RRULE:FREQ=MONTHLY;UNTIL=20230220T000000Z;BYDAY=3TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:krf38or5n3cnnkt6nadhljsslo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220810T220002Z
+DESCRIPTION:73 40 01012022<br /><b><br /></b><br /><u></u><u></u><b>Do not 
+ write any violations for </b><span><b>11610 Terrace Parke Trail</b></span><
+ br /><u></u><br />Property Management Company: Associa Hill Country<br />Co
+ mmunity Name: The Parke at Anderson Mill<br />Unit Count: 73<br />Gate Code
+ : n/a<br />Manager (Name and Email): Emily Douglas - <a href="mailto:EDougl
+ as@associahillcountry.com"><u>EDouglas@associahillcountry.com</u></a><br />
+ Property Main Address (Address\, City\, State\, Zip): Alison Parke Trail\, 
+ Austin\, TX 78750<br />Trash/Recycling Day(s) – If it is not a violation\, 
+ please state that: Wednesday<br />Inspection Frequency: 1x month<br />Pleas
+ e indicate if this property also needs monitoring by walking\, alleyways\, 
+ or both: n/a<br />Days Exempt other than trash days?<br />Last Inspection r
+ otation/days between-Date we can start: start ASAP<u></u><u></u><u></u>
+LAST-MODIFIED:20230118T171455Z
+LOCATION:11112 Alison Parke Trail\, Austin\, TX 78750\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:The Parke at Anderson Mill - W73
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Parke at Anderson Mill - Revised Fining Policy;FMTTYPE=
+ application/pdf:https://drive.google.com/open?id=16L7dom6RDNdgyiTGwN0TtI5lF
+ MxBUktL&authuser=2
+ATTACH;FILENAME=The Parke at Anderson Mill - Deed Restrictions;FMTTYPE=appl
+ ication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:/
+ /drive.google.com/open?id=1idXpITzKA2pxZ6T4a0FiVTotdpe6-EQy&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230216
+DTEND;VALUE=DATE:20230217
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:aimc4l7ulr19nbsfs5f0e0tqia@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220810T220002Z
+DESCRIPTION:73 40 01012022<a href="http://voice.google.com/calls?a=nc\,%2B1
+ 4001012022"></a><br><br><u></u><u></u><b>*Request Thursdays due to trash da
+ ys.</b><br><b><br></b><b>Do not write any violations for </b><span><b>11610
+  Terrace Parke Trail</b></span><br><u></u><br>Property Management Company: 
+ Associa Hill Country<br>Community Name: The Parke at Anderson Mill<br>Unit 
+ Count: 73<br>Gate Code: n/a<br>Manager (Name and Email): Emily Douglas - <a
+  href="mailto:EDouglas@associahillcountry.com"><u>EDouglas@associahillcount
+ ry.com</u></a><br>Property Main Address (Address\, City\, State\, Zip): Ali
+ son Parke Trail\, Austin\, TX 78750<br>Trash/Recycling Day(s) – If it is no
+ t a violation\, please state that: Tuesday &amp\; Wednesday<br>Inspection F
+ requency: 1x month<br>Please indicate if this property also needs monitorin
+ g by walking\, alleyways\, or both: n/a<br>Days Exempt other than trash day
+ s?<br>Last Inspection rotation/days between-Date we can start: start ASAP<u
+ ></u><u></u><u></u>
+LAST-MODIFIED:20230118T171631Z
+LOCATION:11112 Alison Parke Trail\, Austin\, TX 78750\, USA
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:The Parke at Anderson Mill - 73Ronly
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Parke at Anderson Mill - Revised Fining Policy;FMTTYPE=
+ application/pdf:https://drive.google.com/open?id=16L7dom6RDNdgyiTGwN0TtI5lF
+ MxBUktL&authuser=2
+ATTACH;FILENAME=The Parke at Anderson Mill - Deed Restrictions;FMTTYPE=appl
+ ication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:/
+ /drive.google.com/open?id=1idXpITzKA2pxZ6T4a0FiVTotdpe6-EQy&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230202
+DTEND;VALUE=DATE:20230203
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:1omdjbsf373fk2su21elf9ualf@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230118T003039Z
+DESCRIPTION:98 40 01112023\n\nProperty Management Company: Associa Hill Cou
+ ntry\nCommunity Name: The trails at Austin\nUnit Count: 98\nGate Code: NA\n
+ Manager (Name and Email): ana.rodriguez@associa.us\nProperty Main Address (
+ Address\, City\, State\, Zip): 4011 Merrimac\, Spicewood\,78731 (Mopac & Sp
+ icewood Springs)\nTrash/Recycling Day(s) – If it is not a violation\, pleas
+ e state that:\nInspection Frequency: once a month\nPlease indicate if this 
+ property also needs monitoring by walking\, alleyways\, or both:\nDays Exem
+ pt other than trash days?\nLast Inspection date/when can we begin inspectio
+ ns: unknown
+LAST-MODIFIED:20230118T200845Z
+LOCATION:4011 Merimac\, Spicewood\,78731
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:The Trails at Austin - 98
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Trails at Austin HOA Onboarding - Deed Restrictions;FMT
+ TYPE=application/pdf:https://drive.google.com/open?id=1ymKxF9Lp98PMWhQf-FxY
+ 1m1G3_1h_7Ls&authuser=2
+ATTACH;FILENAME=The Trails at Austin R&R wtih amendments as of 2016;FMTTYPE
+ =application/pdf:https://drive.google.com/open?id=1ay_rOLJ9P2rhGXKE6-U3HrDi
+ TcNvIg6b&authuser=2
+ATTACH;FILENAME=The Trails - Master Declaration of Covenants and Restrictio
+ ns as of 2012.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=
+ 1xoMN4fVEhd16MPtrbkKwXG6fN6hMtO9e&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230213
+DTEND;VALUE=DATE:20230214
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:1visu6qhc9rl1d198lrfos14hj_R20230213@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230106T031002Z
+DESCRIPTION:435 100 78899452<br /><br /><b>*Please drive Monday or Friday o
+ nly</b><br /><br />Date: 01/03/2021<br />Property Management Company: Assoc
+ ia Hill Country<br />Community Name: Highland Horizon<br />Unit Count: 435<
+ br />Gate Code: 0906 (use this code to access the only gated part of the co
+ mmunity which can be accessed on Meridian Ave)<br />Manager (Name and Email
+ ): TBD - Crystal Gant - <a href="mailto:Crystal.Gant@associa.us">Crystal.Ga
+ nt@associa.us</a><br />Property Main Address (Address\, City\, State\, Zip)
+ : Archipelago Trail Austin\, TX 78717<br />Trash/Recycling Day(s) – If it i
+ s not a violation\, please state that: <b>Please drive Monday or Friday onl
+ y</b><br />Inspection Frequency: Twice a month<br />Please indicate if this
+  property also needs monitoring by walking\, alleyways\, or both: N/A<br />
+ Days Exempt other than trash days? Tuesday-Thursday<br />Last Inspection da
+ te/when can we begin inspections: 12/16/2022. Inspections can begin immedia
+ tely<b><br /></b>
+LAST-MODIFIED:20230119T151934Z
+LOCATION:Archipelago Trail\, Austin\, TX 78717\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:*Highland Horizon - TWR435
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Highland Horizon Onboarding 2022 - Deed Restrictions;FMTTYP
+ E=application/vnd.openxmlformats-officedocument.wordprocessingml.document:h
+ ttps://drive.google.com/open?id=1bKH41XRRzYR2NNK5mXbQxZY471DRk0Im&authuser=
+ 2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230123
+DTEND;VALUE=DATE:20230124
+RRULE:FREQ=MONTHLY;BYDAY=4MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:7vsg4to2ffrj3qdquopna1fth4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230106T031022Z
+DESCRIPTION:435 100 01032021<br /><br /><b>*Please drive Monday or Friday o
+ nly</b><br /><br />Date: 01/03/2021<br />Property Management Company: Assoc
+ ia Hill Country<br />Community Name: Highland Horizon<br />Unit Count: 435<
+ br />Gate Code: 0906 (use this code to access the only gated part of the co
+ mmunity which can be accessed on Meridian Ave)<br />Manager (Name and Email
+ ): TBD - Crystal Gant - <a href="mailto:Crystal.Gant@associa.us">Crystal.Ga
+ nt@associa.us</a><br />Property Main Address (Address\, City\, State\, Zip)
+ : Archipelago Trail Austin\, TX 78717<br />Trash/Recycling Day(s) – If it i
+ s not a violation\, please state that: <b>Please drive Monday or Friday onl
+ y</b><br />Inspection Frequency: Twice a month<br />Please indicate if this
+  property also needs monitoring by walking\, alleyways\, or both: N/A<br />
+ Days Exempt other than trash days? Tuesday-Thursday<br />Last Inspection da
+ te/when can we begin inspections: 12/16/2022. Inspections can begin immedia
+ tely<b><br /></b>
+LAST-MODIFIED:20230119T151949Z
+LOCATION:Archipelago Trail\, Austin\, TX 78717\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:**Highland Horizon - TWR435
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Highland Horizon Onboarding 2022 - Deed Restrictions;FMTTYP
+ E=application/vnd.openxmlformats-officedocument.wordprocessingml.document:h
+ ttps://drive.google.com/open?id=1bKH41XRRzYR2NNK5mXbQxZY471DRk0Im&authuser=
+ 2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230124
+DTEND;VALUE=DATE:20230125
+RRULE:FREQ=MONTHLY;BYDAY=4TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:soau2k75g36mcqjl28vt53ig9k_R20230124@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220728T194140Z
+DESCRIPTION:140 60 02022022<b><u><br /></u></b><br /><b><u><br /></u></b><b
+ r /><u></u><u></u><u></u><u></u><u></u><u></u><b><u>***MUST USE THE SMARTWE
+ BS APP ONLY***</u></b><u></u><br /><u></u><b><u>Put in the queue only - Do 
+ not send</u></b><b><u><br /></u></b><br /><b>Look at <u>all attachments</u>
+  for important information!</b><br /><br /><b>Walking property - Please get
+  out of your vehicle and check fences along the property line.<br /><br />T
+ he map is attached at the bottom of the onboarding/deed restrictions.</b><b
+ r /><b><br /></b>Property Management Company: Associa Hill Country<br />Com
+ munity Name: Chisholm Crossing Owners Association<br />Unit Count: 140<br /
+ >Gate Code: n/a<br />Manager (Name and Email): Natalie Lewis - <a href="mai
+ lto:Natalie.lewis@associa.us">Natalie.lewis@associa.us</a> &amp\;<br /><u><
+ /u>Emily Douglas - <a href="mailto:EDouglas@associahillcountry.com"><u>EDou
+ glas@associahillcountry.com</u></a><br />(PLEASE EMAIL BOTH CAM AND ACAM WH
+ EN INSPECTIONS ARE COMPLETE)<br />Property Main Address (Address\, City\, S
+ tate\, Zip): Located at Plateau St and East Mesa Park Dr. in Round Rock\, T
+ X 78664<br />Trash/Recycling Day(s) – If it is not a violation\, please sta
+ te that: Fridays\, recycling every other Friday.<br />Inspection Frequency:
+  twice a month<br />Please indicate if this property also needs monitoring 
+ by walking\, alleyways\, or both: Please get out of your vehicle and check 
+ fences along the property line.<br />Days Exempt other than trash days?<br 
+ />Last Inspection rotation/days between-Date we can start: can start asap<u
+ ></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T152038Z
+LOCATION:1609 East Mesa Park Drive\,  Round Rock\, TX 78664\, USA
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:**Chisholm Crossing O.A. (SW) - F140
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=CHISHOLM CROSSING  HOA Onboarding -Complete Package.pdf;FMT
+ TYPE=application/pdf:https://drive.google.com/open?id=1JjWsd-F8HdFckaTBk-Yt
+ __mr3gBfu9nW&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Chisholm Crossing OA - Special Notes;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1GIBTjcA9BtpghCcdvL
+ LZYFPCQloBJ8AE22t0XwyErsE&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230215
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:8at9c2gd6r29a03neauvnoh5ms_R20230214@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220728T194138Z
+DESCRIPTION:140 60 5546689<b><u><br /></u></b><br /><b><u><br /></u></b><br
+  /><u></u><u></u><u></u><u></u><u></u><u></u><u></u><b><u>***MUST USE THE S
+ MARTWEBS APP ONLY***</u></b><u></u><br /><u></u><b><u>Put in the queue only
+  - Do not send</u></b><u></u><br /><br /><u></u><b>Look at <u>all attachmen
+ ts</u> for important information!<br /></b><br /><b>Walking property - Plea
+ se get out of your vehicle and check fences along the property line.<br /><
+ br />The map is attached at the bottom of the onboarding/deed restrictions.
+ </b><u></u><br /><u></u><b><br /></b>Property Management Company: Associa H
+ ill Country<br />Community Name: Chisholm Crossing Owners Association<br />
+ Unit Count: 140<br />Gate Code: n/a<u></u><br /><u></u>(PLEASE EMAIL ALL TH
+ REE WHEN INSPECTIONS ARE COMPLETE)<br />Manager (Name and Email): Natalie L
+ ewis - <a href="mailto:Natalie.lewis@associa.us">Natalie.lewis@associa.us</
+ a> <u></u><br />Emily Douglas - <a href="mailto:EDouglas@associahillcountry
+ .com"><u>EDouglas@associahillcountry.com</u></a><br />Property Main Address
+  (Address\, City\, State\, Zip): Located at Plateau St and East Mesa Park D
+ r. in Round Rock\, TX 78664<br />Trash/Recycling Day(s) – If it is not a vi
+ olation\, please state that: Fridays\, recycling every other Friday.<br />I
+ nspection Frequency: twice a month<br />Please indicate if this property al
+ so needs monitoring by walking\, alleyways\, or both: Please get out of you
+ r vehicle and check fences along the property line.<br />Days Exempt other 
+ than trash days?<br />Last Inspection rotation/days between-Date we can sta
+ rt: can start asap<u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T152147Z
+LOCATION:1300 Arizona Mesa Cove\, Round Rock\, TX 78664\, USA
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:*Chisholm Crossing O.A. (SW) - F140
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=CHISHOLM CROSSING  HOA Onboarding -Complete Package.pdf;FMT
+ TYPE=application/pdf:https://drive.google.com/open?id=1JjWsd-F8HdFckaTBk-Yt
+ __mr3gBfu9nW&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Chisholm Crossing OA - Special Notes;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1GIBTjcA9BtpghCcdvL
+ LZYFPCQloBJ8AE22t0XwyErsE&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230124
+DTEND;VALUE=DATE:20230125
+RRULE:FREQ=MONTHLY;BYDAY=4TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:ha0vnrk483svgbgkrlvnqo79c4_R20230124@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220720T202730Z
+DESCRIPTION:47 40 02022022<br /><b><br /></b><br /><u></u><u></u><u></u><u>
+ </u><b>Please do not give violations for House Numbers missing or blocked.<
+ br /><br />Please do not give violations for Moldy driveways\, sidewalks\, 
+ or house stones.<br /></b><br />Property Management Company: Associa Hill C
+ ountry<br /><u></u>Community Name: Buttercup Townhome Community<br />Unit C
+ ount: 47<br />Gate Code: None<br />Manager (Name and Email): Laureen Sutton
+ : <a href="mailto:Laureen.sutton@associa.us">Laureen.sutton@associa.us</a>:
+  512-827-8086<a href="http://voice.google.com/calls?a=nc\,%2B15128278086"><
+ /a><a href="http://voice.google.com/calls?a=nc\,%2B15128278086"></a><a href
+ ="http://voice.google.com/calls?a=nc\,%2B15128278086"></a><a href="http://v
+ oice.google.com/calls?a=nc\,%2B15128278086"></a><a href="http://voice.googl
+ e.com/calls?a=nc\,%2B15128278086"></a><a href="http://voice.google.com/call
+ s?a=nc\,%2B15128278086"></a><a href="http://voice.google.com/calls?a=nc\,%2
+ B15128278086"></a><a href="http://voice.google.com/calls?a=nc\,%2B151282780
+ 86"></a><br />Property Main Address (Address\, City\, State\, Zip): 401 But
+ tercup Creek Boulevard\, Cedar Park 78613<br />Trash/Recycling Day(s) – If 
+ it is not a violation\, please state that: Not a violation (dumpsters)<br /
+ >Inspection Frequency: 1X / month<br />Please indicate if this property als
+ o needs monitoring by walking\, alleyways\, or both: None<br />Days Exempt 
+ other than trash days?<br />Last Inspection rotation/days between-Date we c
+ an start:<u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T152730Z
+LOCATION:401 Buttercup Creek Boulevard\, Cedar Park 78613
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Buttercup Townhome Community - 47
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Buttercup Townhomes HOA Onboarding - Deed Restriction 2022.
+ pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=1vNrb3ELcipQB0
+ v3GsAN0LvYrMfef2b89&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230208
+DTEND;VALUE=DATE:20230209
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:2ccb9n15fgccrr1jstklh7nl4o_R20230208@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20221103T170728Z
+DESCRIPTION:194 60 221889732<b><br /></b><br /><br /><u></u><b>**Please see
+  the attachment for special instructions. Updated 11/14/22.</b><br /><u></u
+ ><br /><b>12/15/22 - </b>Trash day may be Thursdays.  Please note the trash
+  day. And if the inspector sees all the cans out\, it’s a good indication i
+ t’s trash day😊.  Feel free to contact us so we can advise how to proceed i
+ f there are any questions.  Thank you!<br /><u></u><br /><u></u>Property Ma
+ nagement Company: Associa Hill Country<br />Community Name: Crescent Bluff<
+ br />Unit Count: 784 at buildout. Currently in development and 194 homes.<b
+ r />Gate Code: n/a<br />Manager (Name and Email): Melissa Crow <a href="mai
+ lto:melissa.crow@associa.us">melissa.crow@associa.us</a><br />Property Main
+  Address (Address\, City\, State\, Zip): 1217 Horizon View Dr.\, Georgetown
+ \, TX 78628<br />Trash/Recycling Day(s) – If it is not a violation\, please
+  state that: Tuesday<br />Inspection Frequency: 2x a month<br />Please indi
+ cate if this property also needs monitoring by walking\, alleyways\, or bot
+ h: Drive only<br />Days Exempt other than trash days?<br />Last Inspection 
+ rotation/days between-Date we can start: June- Asap<u></u><u></u>
+LAST-MODIFIED:20230119T152927Z
+LOCATION:1217 Horizon View Dr\, Georgetown\, TX 78628\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:*Cresent Bluff - T194
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Cresent Bluff Onboarding - Deed Restriction;FMTTYPE=applica
+ tion/vnd.openxmlformats-officedocument.wordprocessingml.document:https://dr
+ ive.google.com/open?id=1Q9OknRbkYl7v_8dM-iaGY_mCfBS_K5Vm&authuser=1
+ATTACH;FILENAME=CrescentBluffSec2_3_AddressPlat.pdf;FMTTYPE=application/pdf
+ :https://drive.google.com/open?id=1gRKq3T-ubtGWEp86_qhTaIgvp5Lh_iun&authuse
+ r=1
+ATTACH;FILENAME=CrescentBluffSec1_AddressPlat (1).pdf;FMTTYPE=application/p
+ df:https://drive.google.com/open?id=1vVPDzeOoiVHM8Su7dxXCmCzFQwprcct7&authu
+ ser=1
+ATTACH;FILENAME=Cresent Bluff Exhibit D - First Amended Land Plan ;FMTTYPE=
+ application/pdf:https://drive.google.com/open?id=1Qs53lHqGt0cYqQiMj8R16PAvR
+ Zk1VcJj&authuser=1
+ATTACH;FILENAME=Cresent Bluff - Special Instructions;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1o2cR1RE3f6BE87vP_G
+ 2zfSI-i9Z685UAyiahei-QPkA&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230125
+DTEND;VALUE=DATE:20230126
+RRULE:FREQ=MONTHLY;BYDAY=4WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:2e0oip21n5ukh4kv3v2c1pimna_R20230125@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20221103T170748Z
+DESCRIPTION:<u></u><b>**Please see the attachment for special instructions.
+  Updated 11/14/22.</b><br><u></u><br><b>12/15/22 - </b>Trash day may be Thu
+ rsdays.  Please note the trash day. And if the inspector sees all the cans 
+ out\, it’s a good indication it’s trash day😊.  Feel free to contact us so 
+ we can advise how to proceed if there are any questions.  Thank you!<br><u>
+ </u><br><u></u>Property Management Company: Associa Hill Country<br>Communi
+ ty Name: Crescent Bluff<br>Unit Count: 784 at buildout. Currently in develo
+ pment and 194 homes.<br>Gate Code: n/a<br>Manager (Name and Email): Melissa
+  Crow <a href="mailto:melissa.crow@associa.us">melissa.crow@associa.us</a><
+ br>Property Main Address (Address\, City\, State\, Zip): 1217 Horizon View 
+ Dr.\, Georgetown\, TX 78628<br>Trash/Recycling Day(s) – If it is not a viol
+ ation\, please state that: Tuesday<br>Inspection Frequency: 2x a month<br>P
+ lease indicate if this property also needs monitoring by walking\, alleyway
+ s\, or both: Drive only<br>Days Exempt other than trash days?<br>Last Inspe
+ ction rotation/days between-Date we can start: June- Asap<u></u><u></u>
+LAST-MODIFIED:20230119T153021Z
+LOCATION:1217 Horizon View Dr\, Georgetown\, TX 78628\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:**Cresent Bluff - T194
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Cresent Bluff Onboarding - Deed Restriction;FMTTYPE=applica
+ tion/vnd.openxmlformats-officedocument.wordprocessingml.document:https://dr
+ ive.google.com/open?id=1Q9OknRbkYl7v_8dM-iaGY_mCfBS_K5Vm&authuser=1
+ATTACH;FILENAME=CrescentBluffSec2_3_AddressPlat.pdf;FMTTYPE=application/pdf
+ :https://drive.google.com/open?id=1gRKq3T-ubtGWEp86_qhTaIgvp5Lh_iun&authuse
+ r=1
+ATTACH;FILENAME=CrescentBluffSec1_AddressPlat (1).pdf;FMTTYPE=application/p
+ df:https://drive.google.com/open?id=1vVPDzeOoiVHM8Su7dxXCmCzFQwprcct7&authu
+ ser=1
+ATTACH;FILENAME=Cresent Bluff Exhibit D - First Amended Land Plan ;FMTTYPE=
+ application/pdf:https://drive.google.com/open?id=1Qs53lHqGt0cYqQiMj8R16PAvR
+ Zk1VcJj&authuser=1
+ATTACH;FILENAME=Cresent Bluff - Special Instructions;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1o2cR1RE3f6BE87vP_G
+ 2zfSI-i9Z685UAyiahei-QPkA&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230125
+DTEND;VALUE=DATE:20230126
+RRULE:FREQ=MONTHLY;BYDAY=4WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:66i1km11agutrnhfe50qg761qj_R20230125@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220822T172302Z
+DESCRIPTION:57 40 01012022<br /><br /><u></u><u></u>Alternate address for G
+ armin: 3805 Fieldfare Drive\, <u></u><span>Pflugerville TX 78660</span><br 
+ /><br /><u></u>Property Management Company: Associa Hill Country<br />Commu
+ nity Name: Trails at Blackhawk<br />Unit Count: 57<br />Gate Code: #0603 (w
+ ill obtain specific code)<br />Manager (Name and Email): Nataly Mendoza - <
+ a href="mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@ass
+ ociahillcountry.com</u></a><br />Miriam Cocciante - <a href="mailto:Miriam.
+ Cocciante@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.co
+ m</u></a> <br />Property Main Address (Address\, City\, State\, Zip): 3801 
+ Birdwatch Loop\, Pflugerville TX 78660<br />Trash/Recycling Day(s) – If it 
+ is not a violation\, please state that: Friday<br />Inspection Frequency: 1
+ X per month<br />Please indicate if this property also needs monitoring by 
+ walking\, alleyways\, or both:<br />Days Exempt other than trash days?<br /
+ >Last Inspection rotation/days between-Date we can start: **OK to Begin\, f
+ it it scheduled. The manager would like to speak with the inspector prior t
+ o the start or meet at the property.<u></u><u></u>
+LAST-MODIFIED:20230119T153156Z
+LOCATION:3801 Birdwatch Loop\, Pflugerville\, TX 78660\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Trails of Blackhawk - F57
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Trails of Blackhawk Onboarding - Deed Restriction;FMTTYPE=a
+ pplication/pdf:https://drive.google.com/open?id=1y7BC0U4ky0v3uLAGDEID5BGwFf
+ ZsJkJE&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230201
+DTEND;VALUE=DATE:20230202
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:mql5j3fc12s6p5lktlqblt04mv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T161711Z
+DESCRIPTION:295 80 1256889664<u></u><br /><br /> <b>*Inspections should tak
+ e place Wed\, Thursday\, or Friday.  </b><span>No Mon or Tuesday</span><br 
+ />inspections. <br /><br /><span>Date: 1.3.2023</span><br />Property Manage
+ ment Company: Associa Hill Country<br />Community Name: Bella Colinas Maste
+ r Association HOA<br />Unit Count: 295<br />Gate Code: N/A<br />Manager (Na
+ me and Email): Wendy Harden <a href="mailto:wendy.harden@associa.us">wendy.
+ harden@associa.us</a><br />Property Main Address (Address\, City\, State\, 
+ Zip): Castana Bend\, Bee Caves\, Texas 78738<br />Trash/Recycling Day(s) – 
+ If it is not a violation\, please state that: Monday and Tuesday<br />Inspe
+ ction Frequency: 2 times a month<br />Please indicate if this property also
+  needs monitoring by walking\, alleyways\, or both: N/A<br />Days Exempt ot
+ her than trash days? Inspections should take place Wed\, Thursday\, or Frid
+ ay. No Mon or Tuesday inspections.<br />Last Inspection rotation/days betwe
+ en-Date we can start:<br />The last inspection was on December 22nd\, 2022<
+ br /><b>The next Inspection is due January 5th\, 2023</b>
+LAST-MODIFIED:20230119T153250Z
+LOCATION:5400 Castana Bend\, Bee Caves\, Texas 78738
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:*Bella Colinas Master Assoc. HOA - MT295
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Bella Colinas Master HOA Onboarding - Deed Restriction 2022
+ .pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=13oohfnWJCPCx
+ WOrGY8hkFTsBl9izxqpL&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230201
+DTEND;VALUE=DATE:20230202
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:hs4op7dk7l8ktmburqt8lf8js6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220601T203418Z
+DESCRIPTION:62 50 060122<br /><br /><u></u><u></u><u></u><u></u><u></u><u><
+ /u>Property Management Company: Associa Hill Country<br />Property Name: Cl
+ earwater Harbor HOA<br /># Of Units: 62<br />Gate Code: 0933<u></u><br />Ma
+ nager (Name and Email): Lisa Paulk - <a href="mailto:Lisa.Paulk@associahill
+ country.com">Lisa.Paulk@associahillcountry.com</a><br />Property Main Addre
+ ss (Street\, City\, State\, Zip): 100 Marina Bluff\, Kingsland\, TX 78639<b
+ r />Trash/Recycling Day(s) – If it is not a violation\, please state that: 
+ Community Dumpsters\, are picked up twice a week.<br /># Of drives per mont
+ h: Weekly<br />Days Exempt other than trash days?<br />Last Inspection rota
+ tion/days between-Date we can start: Can start ASAP<u></u><u></u><u></u><u>
+ </u><u></u><u></u>
+LAST-MODIFIED:20230119T153459Z
+LOCATION:100 Marina Bluff\, Kingsland\, TX 78639\, USA
+SEQUENCE:9
+STATUS:CONFIRMED
+SUMMARY:Clearwater Harbor HOA - 62
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Clearwater Harbor Onboarding - Deed Restriction ;FMTTYPE=ap
+ plication/pdf:https://drive.google.com/open?id=16r-58H0C5bHW3aOe09nWegOcjQs
+ E8lgn&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+ATTACH;FILENAME=Example1;FMTTYPE=image/jpeg:https://drive.google.com/open?i
+ d=1MECK3TgIpWRtmbGEWhq9hIGZzY_GIZhf&authuser=2
+ATTACH;FILENAME=Example2;FMTTYPE=image/jpeg:https://drive.google.com/open?i
+ d=1g_mq-CswCV6ecQPu77JcfBwsheEzaMT_&authuser=2
+ATTACH;FILENAME=Example3;FMTTYPE=image/jpeg:https://drive.google.com/open?i
+ d=1ymN8b699pqGNtbze5DbQ57sQ6e8ie_iP&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230201
+DTEND;VALUE=DATE:20230202
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:0389mm5l1j9hm6g5tglejtj8k1_R20230201@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220601T203832Z
+DESCRIPTION:78 40 110122<br /><br /><u></u><u></u><u></u><u></u><u></u><b>1
+ /9/23</b> - <span>Your team recently did a drive for HighVista but only rec
+ orded two pictures for two units. Kindly be aware there are a lot more viol
+ ations for this particular community that has the same violation as the one
+  that was previously noted.</span><br><br /><br>Property Management Company
+ : Associa Hill Country<br />Property Name: HighVista Council of Co-Owners<b
+ r /># Of Units: 78<br />Gate Code:<br />Manager (Name and Email): Liz Loren
+ zo - <a href="mailto:Liz.Lorenzo@associahillcountry.com">Liz.Lorenzo@associ
+ ahillcountry.com</a><br />Property Main Address (Street\, City\, State\, Zi
+ p): 300 Out Yonder\, Horseshoe Bay\, TX 78657<br />Trash/Recycling Day(s) –
+  If it is not a violation\, please state that: Dumpster\, is not a violatio
+ n<br /># Of drives per month: Monthly<br />Days Exempt other than trash day
+ s?<br />Last Inspection rotation/days between-Date we can start: Can start 
+ ASAP<u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T153631Z
+LOCATION:300 Out Yonder\, Horseshoe Bay\, TX 78657\, USA
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:HighVista Condominiums - 78
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=High Vista Onboarding - Deed Restriction;FMTTYPE=applicatio
+ n/pdf:https://drive.google.com/open?id=1bRUN4kl2JdA_ESsxe9wLeMCabWk-Qv3B&au
+ thuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230202
+DTEND;VALUE=DATE:20230203
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:28kgs2bhimu92dsqn2pi2i6e2c@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T164916Z
+DESCRIPTION:38 35 66661658<a href="http://voice.google.com/calls?a=nc\,%2B1
+ 3566661658"></a><br><br>Date: 1.3.2023<br>Property Management Company: Asso
+ cia Hill Country<br>Community Name: The Vistas at Lake Travis HOA<br>Unit C
+ ount: 38 (combination of lots and houses)<br>Gate Code: N/A<br>Manager (Nam
+ e and Email): Wendy Harden <a href="mailto:wendy.harden@associa.us">wendy.h
+ arden@associa.us</a><br>Property Main Address (Address\, City\, State\, Zip
+ ): 2100 Lakehurst Rd\, Spicewood\, Texas 78669<br>Trash/Recycling Day(s) – 
+ If it is not a violation\, please state that:<b> 4 pm on Tuesday through 12
+  pm on Wednesday.</b><br>Inspection Frequency: 1 time a month<br>Please ind
+ icate if this property also needs monitoring by walking\, alleyways\, or bo
+ th: N/A<br>Days Exempt other than trash days? N/A<br>Last Inspection rotati
+ on/days between-Date we can start:<br>The last inspection was completed on 
+ December 5th\, 2022<br><b>Next inspection is due immediately in January 202
+ 3</b>
+LAST-MODIFIED:20230119T153657Z
+LOCATION:2100 Lakehurst Rd\, Spicewood\, TX 78669\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:The Vistas at Lake Travis HOA - TW38
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Vistas at Lake Travis HOA Onboarding - Deed Restriction
+  2022.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=1tLzD-dn
+ FRhNYd15JMLxn1AbU-BTfsC2a&authuser=2
+ATTACH;FILENAME=Vistas at LT map.JPG;FMTTYPE=image/jpeg:https://drive.googl
+ e.com/open?id=1s5vfPAqyaY0QFuIpHhP5BzL7iqHBpeX7&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230201
+DTEND;VALUE=DATE:20230202
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:5np838n52ir34894v6is9m7v2u_R20230201@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230103T222841Z
+DESCRIPTION:87 40 092822<br /><br />Date: 01/03/23<br />Property Management
+  Company: Associa Hill Country<br />Community Name: River Chase HOA<br />Un
+ it Count: 87<br />Gate Code: n/a<br />Manager (Name/Email):<br />Mika Price
+  <a href="mailto:mika.price@associahillcountry.com">mika.price@associahillc
+ ountry.com</a> Please notify <a href="mailto:nataly.mendoza@associahillcoun
+ try.com">nataly.mendoza@associahillcountry.com</a> when inspections<br />ar
+ e complete<br />Property Main Address (Address\, City\, State\, Zip): 500 R
+ iver Chase Blvd Georgetown\, TX 78628<br />Trash/Recycling Day(s) – If it i
+ s not a violation\, please state that: Thursday<br />Inspection Frequency: 
+ 1/month<br />Please indicate if this property also needs monitoring by walk
+ ing\, alleyways\, or both:<br />Days Exempt other than trash days?<br />Las
+ t Inspection rotation/days between-Date we can start: ASAP
+LAST-MODIFIED:20230119T153747Z
+LOCATION:500 River Chase Blvd\, Georgetown\, TX 78628\, USA
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:River Chase HOA - R87
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=River Chase Onboarding Inspections R Us.docx;FMTTYPE=applic
+ ation/vnd.openxmlformats-officedocument.wordprocessingml.document:https://d
+ rive.google.com/open?id=15_l1t9c0fMY_JVtDoKLOWLabvx9p-Ha9&authuser=2
+ATTACH;FILENAME=13 River Chase Plat Section II.pdf;FMTTYPE=application/pdf:
+ https://drive.google.com/open?id=1rnqrM20qQ9Pd4RM042oGqiOurP979M6V&authuser
+ =2
+ATTACH;FILENAME=12 River Chase Plat Section I.pdf;FMTTYPE=application/pdf:h
+ ttps://drive.google.com/open?id=1kxqJDK6KJ7yzb6xYgQzxTHtSh1pIy_53&authuser=
+ 2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230202
+DTEND;VALUE=DATE:20230203
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:a44gv77mdp9fqcadnbn91q117t_R20230202@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220728T173846Z
+DESCRIPTION:15 30 5523688<b><br /></b><br /><b><br /></b><br /><b>12/9/22 <
+ /b>- Please do not send any violations for basketball goals. This was appro
+ ved earlier this year by the board.<br /><br /><u></u><u></u><u></u><u></u>
+ Property Management Company: Associa Hill Country<br />Community Name: Hidd
+ en Trails<br />Unit Count: 15<br />Gate Code: n/a<br />Manager (Name and Em
+ ail): Lisa Paulk - <a href="mailto:Lisa.Paulk@associahillcountry.com">Lisa.
+ Paulk@associahillcountry.com</a><u></u><br /><u></u>Emily Douglas - <a href
+ ="mailto:EDouglas@associahillcountry.com"><u>EDouglas@associahillcountry.co
+ m</u></a><br />Property Main Address (Address\, City\, State\, Zip): 4001 O
+ ak Ridge Dr\, Round Rock\, TX 78681<br />Trash/Recycling Day(s) – If it is 
+ not a violation\, please state that: Wednesday<br />Inspection Frequency: t
+ wice a month<br />Please indicate if this property also needs monitoring by
+  walking\, alleyways\, or both: no<br />Days Exempt other than trash days?<
+ br />Last Inspection rotation/days between-Date we can start: can start asa
+ p<u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T153838Z
+LOCATION:4001 Oak Ridge Dr\, Round Rock\, TX 78681\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:*Hidden Trails - W15
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Hidden Trails Onboarding - Deed Restriction;FMTTYPE=applica
+ tion/pdf:https://drive.google.com/open?id=13Sr9ivLd2-IsmDyZxkz3IWE1UdzbTT0I
+ &authuser=2
+ATTACH;FILENAME=HiddenTrails Address Plat.pdf;FMTTYPE=application/pdf:https
+ ://drive.google.com/open?id=1dJsd3ujMKDvsfnFkkI8nYsMHHrJWi1SZ&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230203
+DTEND;VALUE=DATE:20230204
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:15t66s8vp9v5b4ih4q3ei12s14_R20230203@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T184808Z
+DESCRIPTION:52 0106223356<br /><br /><b>*The board requests Friday inspecti
+ ons</b><br /><br />Date: 1.03.2023<br />Property Management Company: Associ
+ a Hill Country<br />Community Name: N. Lakeway Village Section 6 HOA<br />U
+ nit Count: 52<br />Gate Code: #1565 (inspection must stop and enter code ea
+ ch visit even if the gate is open)<br />Manager (Name and Email): Wendy Har
+ den <a href="mailto:wendy.harden@associa.us">wendy.harden@associa.us</a><br
+  />Property Main Address (Address\, City\, State\, Zip): 101 Lake Como Dr. 
+ Lakeway\, Texas 78734<br />Trash/Recycling Day(s) – If it is not a violatio
+ n\, please state that: Wednesdays<br />Inspection Frequency: 2 times a mont
+ h<br />Please indicate if this property also needs monitoring by walking\, 
+ alleyways\, or both: Drive only<br />Days Exempt other than trash days?<b> 
+ The board requests Friday inspections</b><br />Last Inspection rotation/day
+ s between-Date we can start:<br />The last inspection was completed on Dece
+ mber 22\, 2022<br /><b>The next inspection is due January 5\, 2023.</b><br 
+ />
+LAST-MODIFIED:20230119T154342Z
+LOCATION:101 Lake Como Dr\, Austin\, TX 78734\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:*North Lakeway Village Section 6 HOA - W52
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=N. Lakeway Village Section 6 HOA Onboarding - Deed Restrict
+ ion 2022.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=19DDJ
+ RGQgRrEPW6L-OgvU5L4s-jYYhwFf&authuser=2
+ATTACH;FILENAME=N. Lakeway Village Section 6 HOA map.JPG;FMTTYPE=image/jpeg
+ :https://drive.google.com/open?id=1mvePOEcOIGrD7q2vWg2K9p_a8IMrIBEM&authuse
+ r=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230118
+DTEND;VALUE=DATE:20230119
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:ac3ttpr9sr2r6kbpeudnjolenk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230116
+CREATED:20220614T142411Z
+DESCRIPTION:473 80 102021<b><br /></b><br /><b>**Make sure to look at the a
+ ttachment for Special Instructions - updated 12/16/22.</b><br /><br /><u></
+ u><u></u>Property Management Company: Associa Hill Country<br />Property Na
+ me: Fairways of Blackhawk<br /># Of Units: 473<br />Gate Code:<br />Manager
+  (Name and Email): Email all 3<u></u><br /><u></u>Nataly Mendoza - <a href=
+ "mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@associahil
+ lcountry.com</u></a><br />Miriam Cocciante - <a href="mailto:Miriam.Coccian
+ te@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.com</u></
+ a> <br />Property Main Address (Street\, City\, State\, Zip): 19508 Kenneme
+ r\, Pflugerville\, TX 78660<br />Trash/Recycling Day(s) – If it is not a vi
+ olation\, please state that: Friday<br /># Of drives per month: Twice a mon
+ th<br />Days Exempt other than trash days?<br />Last Inspection rotation/da
+ ys between-Date we can start: Can start ASAP<u></u><u></u><u></u><u></u><u>
+ </u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T154549Z
+LOCATION:19508 Kennemer Dr\, Pflugerville\, TX 78660\, USA
+SEQUENCE:14
+STATUS:CONFIRMED
+SUMMARY:**Fairways of Blackhawk - RF473
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Fairways of Blackhawk Onboarding - Deed Restriction ;FMTTYP
+ E=application/pdf:https://drive.google.com/open?id=1ISy0hDcqhEypPaFlnU4HUSt
+ UDDwnk-By&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+ATTACH;FILENAME=Fairways of Blackhawk Special Instructions;FMTTYPE=applicat
+ ion/vnd.google-apps.document:https://drive.google.com/open?id=1tZV3fUaNGdmi
+ eTIqfFnYl2oZDk3egFzHRJo6bdkFMeI&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230207
+DTEND;VALUE=DATE:20230208
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:7dd0inpk1olsdj0lrak2b9hk2g_R20230207@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220721T170930Z
+DESCRIPTION:60 40 070122<b><br /></b><br /><b><br /></b><br /><u></u><u></u
+ ><u></u><u></u><u></u><u></u><b>Please do not give violations for House Num
+ bers missing or blocked.<br /><br />Please do not give violations for Moldy
+  driveways\, sidewalks\, or house stones.</b><br /><u></u><br /><b>The map 
+ is attached to the deed restrictions</b><u></u><br /><br /><u></u>Date: Jul
+ y 20\, 2022<br />Property Management Company: Associa Hill Country<br />Com
+ munity Name: Estrella Subdivision<br />Unit Count: 60<br />Gate Code: None<
+ br />Manager (Name and Email): Laureen Sutton: <a href="mailto:Laureen.sutt
+ on@associa.us">Laureen.sutton@associa.us</a>: 512-827-8086<a href="http://v
+ oice.google.com/calls?a=nc\,%2B15128278086"></a><a href="http://voice.googl
+ e.com/calls?a=nc\,%2B15128278086"></a><a href="http://voice.google.com/call
+ s?a=nc\,%2B15128278086"></a><a href="http://voice.google.com/calls?a=nc\,%2
+ B15128278086"></a><a href="http://voice.google.com/calls?a=nc\,%2B151282780
+ 86"></a><a href="http://voice.google.com/calls?a=nc\,%2B15128278086"></a><a
+  href="http://voice.google.com/calls?a=nc\,%2B15128278086"></a><a href="htt
+ p://voice.google.com/calls?a=nc\,%2B15128278086"></a><a href="http://voice.
+ google.com/calls?a=nc\,%2B15128278086"></a><br />Property Main Address (Add
+ ress\, City\, State\, Zip): Estrella Crossing\, Georgetown 78628<br />Trash
+ /Recycling Day(s) – If it is not a violation\, please state that: Thursday<
+ br />Inspection Frequency: 1X / month<br />Please indicate if this property
+  also needs monitoring by walking\, alleyways\, or both: No<br />Days Exemp
+ t other than trash days?<br />Last Inspection rotation/days between-Date we
+  can start:<u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T155012Z
+LOCATION:171 Estrella Crossing\, Georgetown\, TX 78628\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Estrella Subvision - R60
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Estrella Subdivision HOA Onboarding - Deed Restriction 2022
+ .pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=1oyRRhy5aU_YN
+ RPxyryHKGetaUKKwAMeK&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230207
+DTEND;VALUE=DATE:20230208
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:2v2qv1h7j4dbp2trnhdq7ih1e4_R20230207@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220722T184814Z
+DESCRIPTION:72 40 070922<br /><b><br /></b><br /><b>12/27/22</b> - <span>Ca
+ n you kindly take a look at <u>315 Axis Loop</u>? I was advised they haven’
+ t mowed their lawn. I emailed them to mow their lawn but also wanted to rea
+ ch out to you all to keep an eye on this home\, please. </span>I received a
+  response from the owner. He is traveling internationally to take care of h
+ is dad that is in the ICU. I gave him until the end of next month to take c
+ are of it. FYI.<br /><br /><u></u><u></u><u></u><u></u>Date: 7/21/2022<br /
+ >Property Management Company: Associa Hill Country<br />Community Name: HOA
+  of Deerhaven<br />Unit Count: 72<br />Gate Code: n/a<br />Manager (Name an
+ d Email): Emily Douglas - <a href="mailto:EDouglas@associahillcountry.com">
+ <u>EDouglas@associahillcountry.com</u></a> &amp\; Lisa Paulk - <a href="mai
+ lto:Lisa.Paulk@associahillcountry.com">Lisa.Paulk@associahillcountry.com</a
+ > <br />Property Main Address (Address\, City\, State\, Zip): 103 Axis Loop
+ \, Georgetown\, TX 78628<br />Trash/Recycling Day(s) – If it is not a viola
+ tion\, please state that: Thursdays<br />Inspection Frequency: once a month
+ <br />Please indicate if this property also needs monitoring by walking\, a
+ lleyways\, or both: no<br />Days Exempt other than trash days?<br />Last In
+ spection rotation/days between-Date we can start: can start asap<u></u><u><
+ /u><u></u><u></u>
+LAST-MODIFIED:20230119T155111Z
+LOCATION:103 Axis Lp\, Georgetown\, TX 78628\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:HOA of Deerhaven - R72
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=HOA of Deerhaven Onboarding - Deed Restriction ;FMTTYPE=app
+ lication/pdf:https://drive.google.com/open?id=15kFiOB9xh6Ud7_m9svyGjeqYsD6X
+ ES-S&authuser=2
+ATTACH;FILENAME=Plat Map.pdf;FMTTYPE=application/pdf:https://drive.google.c
+ om/open?id=1Ii0VL2Zf3XUeoklVH8gt5RRiPaCmBbY0&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230208
+DTEND;VALUE=DATE:20230209
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:03t5e43r5paqp5136irea1fs3s_R20230208@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220804T153908Z
+DESCRIPTION:40 40 040422<br /><br />Property Management Company: Associa Hi
+ ll Country<br />Community Name: Gran Sabana<br />Unit Count: 40 SFH (131 lo
+ ts total that is sold and can be developed)<br />Gate Code: NA<br />Manager
+  (Name and Email): Ana Rodriguez <a href="mailto:Ana.rodriguez@associa.us">
+ Ana.rodriguez@associa.us</a> &amp\; Karla Daniela - <a href="mailto:KDaniel
+ a@associahillcountry.com">KDaniela@associahillcountry.com</a><br />Property
+  Main Address (Address\, City\, State\, Zip): 111 Del Mar Dr\, 78609<br />T
+ rash/Recycling Day(s) – If it is not a violation\, please state that: not a
+  violation<br />Inspection Frequency: monthly<br />Please indicate if this 
+ property also needs monitoring by walking\, alleyways\, or both: NA<br />Da
+ ys Exempt other than trash days?<br />Last Inspection rotation/days between
+ -Date we can start: ASAP
+LAST-MODIFIED:20230119T155427Z
+LOCATION:111 Del Mar Dr\, Buchanan Dam\, TX 78609\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Gran Sabana - 40
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Gran Sabana Onboarding - Deed Restriction 2022;FMTTYPE=appl
+ ication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:/
+ /drive.google.com/open?id=1fdywv5p5NUC9D3MwYXKEeuJTXPP-Q74n&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230208
+DTEND;VALUE=DATE:20230209
+RRULE:FREQ=MONTHLY;BYDAY=2WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:q2ntt3m6vrsfrgpb8objpldo94_R20230208@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220725T171802Z
+DESCRIPTION:140 60 2266589<br /><b><br /></b><br /><u></u><b>11/28/22 - </b
+ ><u></u><span>Please do not send a violation for 120 Colthorpe Ln for the c
+ ar\, they are getting it fixed.</span><br /><u></u><b><br /></b><b>9/27/22 
+ - <u></u></b>Please for the next round check on this property for mowing vi
+ olations. 104 colthorpe lane Hutto\, TX 78634.<br /><br /><u></u>Property M
+ anagement Company: Associa Hill Country<br />Community Name: Hutto Highland
+ s Master<br />Unit Count: 140<br />Gate Code: n/a<br />Manager (Name and Em
+ ail): Emily Douglas - <a href="mailto:EDouglas@associahillcountry.com">EDou
+ glas@associahillcountry.com</a> &amp\; Mika Price - <a href="mailto:Mika.Pr
+ ice@associahillcountry.com">Mika.Price@associahillcountry.com</a><br />Prop
+ erty Main Address (Address\, City\, State\, Zip):<br />Trash/Recycling Day(
+ s) – If it is not a violation\, please state that: Monday<br />Inspection F
+ requency: once a month<br />Please indicate if this property also needs mon
+ itoring by walking\, alleyways\, or both: no<br />Days Exempt other than tr
+ ash days? Tuesday<br />Last Inspection rotation/days between-Date we can st
+ art: can start asap<u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T155508Z
+LOCATION:2001 Cockrill Cove\, Hutto\, TX 78634\, USA
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Hutto Highlands - MT140
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=HOA Onboarding - Deed Restriction 2022 (Hutto Highlands Mas
+ ter);FMTTYPE=application/vnd.google-apps.document:https://drive.google.com/
+ open?id=1kot0ue5SgJ0Xr5wTt9QN60CM3ALTqg6bD27WQDMAZdY&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230210
+DTEND;VALUE=DATE:20230211
+RRULE:FREQ=MONTHLY;BYDAY=2FR
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:10ggcrtsghr6bottvve772pbhj_R20230210@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230106T032431Z
+DESCRIPTION:79 40 01042023<br /><br />Date: 01/04/2023<br />Property Manage
+ ment Company: Associa Hill Country<br />Community Name: Springbrook Enclave
+ <br />Unit Count: 79<br />Gate Code: N/A<br />Manager (Name and Email): TBD
+  -  Crystal Gant - <a href="mailto:Crystal.Gant@associa.us">Crystal.Gant@as
+ socia.us</a><br />Property Main Address (Address\, City\, State\, Zip): Fab
+ er Drive Pflugerville\, TX 78660<br />Trash/Recycling Day(s) – If it is not
+  a violation\, please state that: Not a violation<br />Inspection Frequency
+ : Once a month<br />Please indicate if this property also needs monitoring 
+ by walking\, alleyways\, or both: N/A<br />Days Exempt other than trash day
+ s? N/A<br />Last Inspection date/when can we begin inspections: 12/19/22. C
+ an begin immediately.<br />
+LAST-MODIFIED:20230119T155616Z
+LOCATION:Faber Dr\, Pflugerville\, TX 78660\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Springbrook Enclave - 79
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Springbrook Enclave Onboarding 2022 - Deed Restrictions ;FM
+ TTYPE=application/vnd.openxmlformats-officedocument.wordprocessingml.docume
+ nt:https://drive.google.com/open?id=1LxQsBLxnkfASiUOAgZTrQGaqNh26MpKv&authu
+ ser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230213
+DTEND;VALUE=DATE:20230214
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:hi5lqal3olbiivckvgmlidsa0o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230106T165924Z
+DESCRIPTION:31 25 01042023<a href="http://voice.google.com/calls?a=nc\,%2B1
+ 2501042023"></a><a href="http://voice.google.com/calls?a=nc\,%2B12501042023
+ "></a><a href="http://voice.google.com/calls?a=nc\,%2B12501042023"></a><br>
+ <br>Property Management Company: Associa Hill Country<br>Community Name: Co
+ ndos at Cardinal Hills<br>Unit Count: 31<br>Gate Code: N/A<br>Manager (Name
+  and Email): Holly Skeen\, <a href="mailto:Holly.Skeen@associa.us">Holly.Sk
+ een@associa.us</a><br>Property Main Address (Address\, City\, State\, Zip):
+  South Meadowlark Street Lakeway\, TX 78734<br>Trash/Recycling Day(s) – If 
+ it is not a violation\, please state that: Tuesday<br>Inspection Frequency:
+  Once a month<br>Please indicate if this property also needs monitoring by 
+ walking\, alleyways\, or both: N/A<br>Days Exempt other than trash days? N/
+ A<br>Last Inspection date/when can we begin inspections: Can begin immediat
+ ely
+LAST-MODIFIED:20230119T155701Z
+LOCATION:411 South Meadowlark Street Lakeway\, TX 78734
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Condos at Cardinals Hill - T31
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Cardinal Hills Onboarding 2023 - Deed Restrictions ;FMTTYPE
+ =application/vnd.openxmlformats-officedocument.wordprocessingml.document:ht
+ tps://drive.google.com/open?id=1Sl1xG9MiZIzp68ST1EXK5QlkOtQMJXAG&authuser=0
+ATTACH;FILENAME=Cardinal Hills Site Map.pdf;FMTTYPE=application/pdf:https:/
+ /drive.google.com/open?id=11Fwh-rh2wPjkNL2Sp9IqOl0Ye4P0PRg8&authuser=0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230124
+DTEND;VALUE=DATE:20230125
+RRULE:FREQ=MONTHLY;BYDAY=4TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:395dukapvp2ak132s46apk5b7k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T154236Z
+DESCRIPTION:<i>234 60 01032022<a href="http://voice.google.com/calls?a=nc\,
+ %2B16001032022"></a><a href="http://voice.google.com/calls?a=nc\,%2B1600103
+ 2022"></a></i><br><b><i><br></i></b><br><b>Tuesday-only inspections - </b><
+ span>The next Inspection is due. <u>January 10th and January 24th</u></span
+ ><br><br>Date: 1.3.2022<br>Property Management Company: Associa Hill Countr
+ y<br>Community Name: Village at Ledgestone POA<br>Unit Count: 234<br>Gate C
+ ode: 7711 or 0702<br>Manager (Name and Email): Pending - Wendy Harden - <a 
+ href="mailto:wendy.harden@associa.us">wendy.harden@associa.us</a><br>Proper
+ ty Main Address (Address\, City\, State\, Zip): Limestone Trail\, Austin\, 
+ Texas 78737<br>Trash/Recycling Day(s) – If it is not a violation\, please s
+ tate that: Tuesday-only inspections are due to Trash Cans and recycling sch
+ edules. Do not cite for Red Cans.<br>Inspection Frequency: 2 times a month<
+ br>Please indicate if this property also needs monitoring by walking\, alle
+ yways\, or both: N/A<br>Days Exempt other than trash days? Tuesday only ins
+ pections<br>Last Inspection rotation/days between-Date we can start:<br>The
+  last inspection was done on 12.20.2022<br>The next Inspection is due. Janu
+ ary 10th and January 24th
+LAST-MODIFIED:20230119T160910Z
+LOCATION:121 Limestone Trail\, Austin\, TX 78737\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:**Village at Ledge Stone POA -MWRFSU-234
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=VLS POA HOA Onboarding - Deed Restriction 2022.pdf;FMTTYPE=
+ application/pdf:https://drive.google.com/open?id=1WNIucfD9XvDSa9TLzVkHvsIP1
+ 8o26tCF&authuser=2
+ATTACH;FILENAME=Ledgestone map wCOA.JPG;FMTTYPE=image/jpeg:https://drive.go
+ ogle.com/open?id=17ykMf8Sp8J4RVI-0r87l2VRItfmeVQvR&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230124
+DTEND;VALUE=DATE:20230125
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:395dukapvp2ak132s46apk5b7k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230124
+CREATED:20230104T154236Z
+DESCRIPTION:<i>234 60 01032022<a href="http://voice.google.com/calls?a=nc\,
+ %2B16001032022"></a><a href="http://voice.google.com/calls?a=nc\,%2B1600103
+ 2022"></a></i><br><b><i><br></i></b><br><b>Tuesday-only inspections - </b><
+ span>The next Inspection is due. <u>January 10th and January 24th</u></span
+ ><br><br>Date: 1.3.2022<br>Property Management Company: Associa Hill Countr
+ y<br>Community Name: Village at Ledgestone POA<br>Unit Count: 234<br>Gate C
+ ode: 7711 or 0702<br>Manager (Name and Email): Pending - Wendy Harden - <a 
+ href="mailto:wendy.harden@associa.us">wendy.harden@associa.us</a><br>Proper
+ ty Main Address (Address\, City\, State\, Zip): Limestone Trail\, Austin\, 
+ Texas 78737<br>Trash/Recycling Day(s) – If it is not a violation\, please s
+ tate that: Tuesday-only inspections are due to Trash Cans and recycling sch
+ edules. Do not cite for Red Cans.<br>Inspection Frequency: 2 times a month<
+ br>Please indicate if this property also needs monitoring by walking\, alle
+ yways\, or both: N/A<br>Days Exempt other than trash days? Tuesday only ins
+ pections<br>Last Inspection rotation/days between-Date we can start:<br>The
+  last inspection was done on 12.20.2022<br>The next Inspection is due. Janu
+ ary 10th and January 24th
+LAST-MODIFIED:20230119T160910Z
+LOCATION:121 Limestone Trail\, Austin\, TX 78737\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:**Village at Ledge Stone POA -MWRFSU-234
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=VLS POA HOA Onboarding - Deed Restriction 2022.pdf;FMTTYPE=
+ application/pdf:https://drive.google.com/open?id=1WNIucfD9XvDSa9TLzVkHvsIP1
+ 8o26tCF&authuser=2
+ATTACH;FILENAME=Ledgestone map wCOA.JPG;FMTTYPE=image/jpeg:https://drive.go
+ ogle.com/open?id=17ykMf8Sp8J4RVI-0r87l2VRItfmeVQvR&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230215
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:49acop5436eqme9qs1q5m9npa6_R20230214@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230104T154215Z
+DESCRIPTION:<i>234 60 22255889<a href="http://voice.google.com/calls?a=nc\,
+ %2B16022255889"></a><a href="http://voice.google.com/calls?a=nc\,%2B1602225
+ 5889"></a><a href="http://voice.google.com/calls?a=nc\,%2B16022255889"></a>
+ <a href="http://voice.google.com/calls?a=nc\,%2B16022255889"></a></i><br><b
+ ><i><br></i></b><br><b>Tuesday-only inspections - </b><span>The next Inspec
+ tion is due. <u>January 10th and January 24th</u></span><br><br>Date: 1.3.2
+ 022<br>Property Management Company: Associa Hill Country<br>Community Name:
+  Village at Ledgestone POA<br>Unit Count: 234<br>Gate Code: 7711 or 0702<br
+ >Manager (Name and Email): Pending - Wendy Harden - <a href="mailto:wendy.h
+ arden@associa.us">wendy.harden@associa.us</a><br>Property Main Address (Add
+ ress\, City\, State\, Zip): Limestone Trail\, Austin\, Texas 78737<br>Trash
+ /Recycling Day(s) – If it is not a violation\, please state that: Tuesday-o
+ nly inspections are due to Trash Cans and recycling schedules. Do not cite 
+ for Red Cans.<br>Inspection Frequency: 2 times a month<br>Please indicate i
+ f this property also needs monitoring by walking\, alleyways\, or both: N/A
+ <br>Days Exempt other than trash days? Tuesday only inspections<br>Last Ins
+ pection rotation/days between-Date we can start:<br>The last inspection was
+  done on 12.20.2022<br>The next Inspection is due. January 10th and January
+  24th
+LAST-MODIFIED:20230119T160929Z
+LOCATION:121 Limestone Trail\, Austin\, TX 78737\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:*Village at Ledge Stone POA -MWRFSU-234
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=VLS POA HOA Onboarding - Deed Restriction 2022.pdf;FMTTYPE=
+ application/pdf:https://drive.google.com/open?id=1WNIucfD9XvDSa9TLzVkHvsIP1
+ 8o26tCF&authuser=2
+ATTACH;FILENAME=Ledgestone map wCOA.JPG;FMTTYPE=image/jpeg:https://drive.go
+ ogle.com/open?id=17ykMf8Sp8J4RVI-0r87l2VRItfmeVQvR&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230215
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:74va7g7g7a735vt4orku4f621e_R20230214@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220614T141623Z
+DESCRIPTION:96 50 6655488879<br><br>NOTE<br>Per Board request in Highland P
+ ark Condos\, do not cite properties for driveway/extension power wash clean
+ ing.<br><br>Property Management Company: Associa Hill Country<br>Property N
+ ame: Highland Park Condos<br># Of Units: 96<br>Gate Code:<br>Email all 3:<b
+ r>Manager (Name and Email): Email all 3<u></u><br><u></u>Nataly Mendoza - <
+ a href="mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@ass
+ ociahillcountry.com</u></a><br>Miriam Cocciante - <a href="mailto:Miriam.Co
+ cciante@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.com<
+ /u></a> <br>Property Main Address (Street\, City\, State\, Zip): 17904 Kena
+ i Fjords Dr\, Pflugerville\, TX 78660<br>Trash/Recycling Day(s) – If it is 
+ not a violation\, please state that: Friday<br># Of drives per month: Once 
+ a month<br>Days Exempt other than trash days?<br>Last Inspection rotation/d
+ ays between-Date we can start: Can start ASAP<u></u><br><br>Per Board reque
+ st in Highland Park Condos\, do not cite properties for driveway/extension 
+ power wash cleaning.
+LAST-MODIFIED:20230119T161049Z
+LOCATION:17904 Kenai Fjords Dr\, Pflugerville\, TX 78660\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Highland Park Condos - F96
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Highland Park Condos Onboarding - Deed Restriction ;FMTTYPE
+ =application/pdf:https://drive.google.com/open?id=1nw-61jzV5jD-odWUhmdKJMcf
+ F9EgIRt6&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+ATTACH;FILENAME=Highland Park Condos Special Instructions;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1bwFM9VOqP0-5a
+ kx1aAzguXIDhtocl4dRGHhwVNm-U9s&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230320
+DTEND;VALUE=DATE:20230321
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=3MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:ammsuq1b3m5ghvul5hno5f6m19@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220915T163144Z
+DESCRIPTION:QW 40 02022022<a href="http://voice.google.com/calls?a=nc\,%2B1
+ 4002022022"></a><br><br> <b><u>During one inspection visit per quarter\,</
+ u> (Done 9/15/22 - Do not due until November - check with us in the office 
+ first) </b>Agent will physically walk the Association walking trail to insp
+ ect the properties adjacent to the walking trail for compliance with Associ
+ ation governing documents and will issue violations if found not in complia
+ nce. The board will be provided with a report of this inspection and any is
+ sues found with Association property will be noted.<br><br>Manager (Name an
+ d Email): Emily Douglas - <a href="mailto:Emily.Douglas@associa.us"><u>Emil
+ y.Douglas@associa.us</u></a> &amp\; Lisa Paulk - <a href="mailto:Lisa.Paulk
+ @associa.us"><u>Lisa.Paulk@associa.us</u></a> &amp\; Judy Percy\, President
+  512-809-4498 <a href="http://voice.google.com/calls?a=nc\,%2B15128094498">
+ <u></u></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"><u>
+ </u></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"><u></u
+ ></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"><u></u></
+ a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><
+ a href="http://voice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a h
+ ref="http://voice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href
+ ="http://voice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="h
+ ttp://voice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http
+ ://voice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://
+ voice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voi
+ ce.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.
+ google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.goo
+ gle.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.google
+ .com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.google.co
+ m/calls?a=nc\,%2B15128094498"><u></u></a><a href="mailto:hpnpresident@gmail
+ .com"><u>hpnpresident@gmail.com</u></a>
+LAST-MODIFIED:20230119T161128Z
+LOCATION:700 Kingston Lacy Blvd\, Pflugerville\, TX 78660\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Highland Park North H.A.(SW)- Quarterly Walk Only 
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230206
+DTEND;VALUE=DATE:20230207
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:46i9taeag9ie12pkiq34r9elr6_R20230206@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220929T184346Z
+DESCRIPTION:238 70 080122<b><u><br /></u></b><br /><b><u><br /></u></b><br 
+ /><u></u><b><u>***MUST USE THE SMARTWEBS APP ONLY***</u></b><u></u><br /><u
+ ></u><b><u>Put in the queue only - Do not send</u></b><br /><u></u><br /><b
+ >11/22/22 - </b> 3506 Aquamarine Dr. does have approval for that pool!<br /
+ ><br />Property Management Company: Associa Hill Country<br />Community Nam
+ e: The Walsh Ranch<br />Unit Count: 238<br />Gate Code: n/a<br />Manager (N
+ ame and Email): Mika Price - <a href="mailto:Mika.Price@associahillcountry.
+ com">Mika.Price@associahillcountry.com</a><u></u><br /><u></u>Emily Douglas
+  - <a href="mailto:EDouglas@associahillcountry.com"><u>EDouglas@associahill
+ country.com</u></a><br />Property Main Address (Address\, City\, State\, Zi
+ p): Walsh Ranch Blvd\, Round Rock\, TX\, 78681<br />Trash/Recycling Day(s) 
+ – If it is not a violation\, please state that: violation\; Thursday is tra
+ sh day.<br />Inspection Frequency: 2 times per month<br />Please indicate i
+ f this property also needs monitoring by walking\, alleyways\, or both: no<
+ br />Days Exempt other than trash days? holidays<br />Last Inspection rotat
+ ion/days between-Date we can start: immediately<u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T161235Z
+LOCATION:3939 Walsh Ranch Blvd\, Round Rock\, TX\, 78681
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:*The Walsh Ranch (SW) - R238
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Walsh Ranch Onboarding - Deed Restrictions;FMTTYPE=appl
+ ication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:/
+ /drive.google.com/open?id=1PltAoei_ayqduQm_VdgzmWbBykbsvQ83&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=The Walsh Ranch Special Instructions;FMTTYPE=application/vn
+ d.google-apps.document:https://drive.google.com/open?id=1Cu8bW5rq6he5wHw7X6
+ 72x9IGKzM11QeVPe__sUYaZSo&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230201
+DTEND;VALUE=DATE:20230202
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:gb29d1clehp20cq8r7f49je75e_R20230201@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220614T142112Z
+DESCRIPTION:321 60 080122<br /><b><br /></b><br /><b>Going forward\, we nee
+ d to refrain from writing any violations for garbage bins on the side of ho
+ mes for ONLY this community.</b><br /><br />11/15/22 - Please do not enter 
+ a violation for an inoperable car to 5202 Sulfur Spring Drive Killeen\, TX 
+ 76542. This homeowner is trying to get this towed soon.<br /><br />Please d
+ o not violate 5208 Sulphur Springs for their trailer\, they are moving in. 
+ <br /> <br />6805 Rosita Drive received a violation for a trailer but says 
+ it is not their home. If the trailer is still present\, please make sure it
+  is issued to the correct home! <br /><br /><br /><u></u><u></u><u></u>Prop
+ erty Management Company: Associa Hill Country<br />Property Name: Spanish O
+ aks<br /># Of Units: 321<br />Gate Code:<br />Manager (Name and Email): Ema
+ il all 3<u></u><br /><u></u>Nataly Mendoza - <a href="mailto:Nataly.Mendoza
+ @associahillcountry.com"><u>Nataly.Mendoza@associahillcountry.com</u></a><b
+ r />Miriam Cocciante - <a href="mailto:Miriam.Cocciante@associahillcountry.
+ com"><u>Miriam.Cocciante@associahillcountry.com</u></a> <br />Property Main
+  Address (Street\, City\, State\, Zip): 6606 Golden Oak\, Killeen\, TX<br /
+ >Trash/Recycling Day(s) – If it is not a violation\, please state that: Mon
+ day<br /># Of drives per month: Twice a month<br />Days Exempt other than t
+ rash days?<br />Last Inspection rotation/days between-Date we can start: Ca
+ n start ASAP<u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T161650Z
+LOCATION:6606 Golden Oak Ln\, Killeen\, TX 76542\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:*Spanish Oaks - M321
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Spanish Oaks Onboarding - Deed Restriction ;FMTTYPE=applica
+ tion/pdf:https://drive.google.com/open?id=1AMvDJ19jC9e34JZrKfy4nDJE3RxamtcC
+ &authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230213
+DTEND;VALUE=DATE:20230214
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:j8mh593d7etp1cp8lvhip6o7lt_R20230213@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220601T203115Z
+DESCRIPTION:176 70 26569944<a href="http://voice.google.com/calls?a=nc\,%2B
+ 17026569944"></a><br><br><u></u><u></u><u></u><u></u><u></u><u></u>Property
+  Management Company: Associa Hill Country<br>Property Name: Red Rock Hills<
+ br># Of Units: 176<br>Gate Code: NA<br>Manager (Name and Email): Emily Doug
+ las - <a href="mailto:EDouglas@associahillcountry.com"><u>EDouglas@associah
+ illcountry.com</u></a> &amp\; Liz Lorenzo - <a href="mailto:Liz.Lorenzo@ass
+ ociahillcountry.com"><u>Liz.Lorenzo@associahillcountry.com</u></a><br>Prope
+ rty Main Address (Street\, City\, State\, Zip): 2406 Garden Brook Trl\, Bel
+ ton\, TX 76513 (The poolhouse address)<br><b>Trash/Recycling Day(s)</b> – I
+ f it is not a violation\, please state that: <b>Fridays<br>Bulk Pick up – L
+ ast Wednesday of the month<br>Recycling – Every other Wednesday</b><br># Of
+  drives per month: 1<br>Days Exempt other than trash days?<br>Last Inspecti
+ on rotation/days between-Date we can start: Can start ASAP<u></u><u></u><u>
+ </u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T184952Z
+LOCATION:2406 Garden Brook Trail\, Belton\, TX 76513\, USA
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Red Rock Hills - F176
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+ATTACH;FILENAME=HOA Onboarding - Deed Restriction 2022 (Red Rock Hills).pdf
+ ;FMTTYPE=application/pdf:https://drive.google.com/open?id=1pDii12ZGythpgxFT
+ Iicq1BVscVSoV-py&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230213
+DTEND;VALUE=DATE:20230214
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:qh27c0m7pi1bc3hps8e2s4n637_R20230213@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220726T215246Z
+DESCRIPTION:176 80 654989*98<br /><b><u><br /></u></b><br /><u></u><u></u><
+ u></u><u></u><u></u><u></u><b><u>Night Drive Inspection - Vehicles parked o
+ n the street only. </u></b><u></u><br /><u></u><b><br /></b><b>****THIS CAN
+  ONLY BE DONE MONDAY-THURSDAY AFTER 10 PM ****<br /></b><br />Property Mana
+ gement Company: Associa Hill Country<br />Property Name: Red Rock Hills<br 
+ /># Of Units: 176<br />Gate Code: NA<br />Manager (Name and Email): Emily D
+ ouglas - <a href="mailto:EDouglas@associahillcountry.com"><u>EDouglas@assoc
+ iahillcountry.com</u></a> &amp\; Liz Lorenzo - <a href="mailto:Liz.Lorenzo@
+ associahillcountry.com"><u>Liz.Lorenzo@associahillcountry.com</u></a><br />
+ Property Main Address (Street\, City\, State\, Zip): 2406 Garden Brook Trl\
+ , Belton\, TX 76513 (The poolhouse address)<br /><b>Trash/Recycling Day(s)<
+ /b> – If it is not a violation\, please state that: <b>Fridays<br />Bulk Pi
+ ck up – Last Wednesday of the month<br />Recycling – Every other Wednesday<
+ /b><br /># Of drives per month: 1<br />Days Exempt other than trash days?<b
+ r />Last Inspection rotation/days between-Date we can start: Can start ASAP
+ <u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230119T185013Z
+LOCATION:2406 Garden Brook Trail\, Belton\, TX 76513\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Red Rock Hills - Night Drive - F176
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230215
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:5h48t4phf0l8lgot8aab1k4o11_R20230214@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230214
+CREATED:20221005T181334Z
+DESCRIPTION:127 50 11135897<a href="http://voice.google.com/calls?a=nc\,%2B
+ 15011135897"></a><a href="http://voice.google.com/calls?a=nc\,%2B1501113589
+ 7"></a><br><br><u></u><u></u>Property Management Company: Associa Hill Coun
+ try<br>Community Name: Mission Oaks<br>Unit Count: 127<br>Gate Code: n/a<br
+ >Manager (Name and Email): Email all 3<u></u><br><u></u>Nataly Mendoza - <a
+  href="mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@asso
+ ciahillcountry.com</u></a><br>Miriam Cocciante - <a href="mailto:Miriam.Coc
+ ciante@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.com</
+ u></a> <br>Property Main Address (Address\, City\, State\, Zip): Independen
+ ce Dr.\, Georgetown\, TX<br>Trash/Recycling Day(s) – If it is not a violati
+ on\, please state that: unknown<br>Inspection Frequency: 1x month<br>Please
+  indicate if this property also needs monitoring by walking\, alleyways\, o
+ r both: n/a<br>Days Exempt other than trash days?<br>Last Inspection rotati
+ on/days between-Date we can start: start ASAP<u></u><u></u>
+LAST-MODIFIED:20230119T185612Z
+LOCATION:212 Independence Dr\, Georgetown\, TX 78633\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mission Oaks - 127
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Mission Oaks Onboarding-Deed Restrictions;FMTTYPE=applicati
+ on/vnd.openxmlformats-officedocument.wordprocessingml.document:https://driv
+ e.google.com/open?id=1ghQoayaqlA1Q1Ddts7JQgf7hVqhvx5Km&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230215
+RRULE:FREQ=MONTHLY;BYDAY=2TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:5h48t4phf0l8lgot8aab1k4o11_R20230214@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20221005T181334Z
+DESCRIPTION:127 50 11135897<a href="http://voice.google.com/calls?a=nc\,%2B
+ 15011135897"></a><a href="http://voice.google.com/calls?a=nc\,%2B1501113589
+ 7"></a><br><br><u></u><u></u>Property Management Company: Associa Hill Coun
+ try<br>Community Name: Mission Oaks<br>Unit Count: 127<br>Gate Code: n/a<br
+ >Manager (Name and Email): Email all 3<u></u><br><u></u>Nataly Mendoza - <a
+  href="mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@asso
+ ciahillcountry.com</u></a><br>Miriam Cocciante - <a href="mailto:Miriam.Coc
+ ciante@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.com</
+ u></a> <br>Property Main Address (Address\, City\, State\, Zip): Independen
+ ce Dr.\, Georgetown\, TX<br>Trash/Recycling Day(s) – If it is not a violati
+ on\, please state that: unknown<br>Inspection Frequency: 1x month<br>Please
+  indicate if this property also needs monitoring by walking\, alleyways\, o
+ r both: n/a<br>Days Exempt other than trash days?<br>Last Inspection rotati
+ on/days between-Date we can start: start ASAP<u></u><u></u>
+LAST-MODIFIED:20230119T185612Z
+LOCATION:212 Independence Dr\, Georgetown\, TX 78633\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mission Oaks - 127
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Mission Oaks Onboarding-Deed Restrictions;FMTTYPE=applicati
+ on/vnd.openxmlformats-officedocument.wordprocessingml.document:https://driv
+ e.google.com/open?id=1ghQoayaqlA1Q1Ddts7JQgf7hVqhvx5Km&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230119
+DTEND;VALUE=DATE:20230120
+RRULE:FREQ=MONTHLY;UNTIL=20230215;BYDAY=3TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:0h6k9ttuumaq2b7hsn7qe9u59d_R20230119@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/qni-ovvb-bpw
+CREATED:20220725T170524Z
+DESCRIPTION:62 40 07212022<br><b><br></b><b>Please check 11009\, 11105\, an
+ d 11210 Conchos Trail\, there was a complaint that they consistently leave 
+ their trash containers on the street well past collection day</b><br><br><u
+ ></u><u></u><u></u><u></u><u></u><u></u>Date: 7/21/2022<br>Property Managem
+ ent Company: Associa Hill Country<br>Community Name: Laurel Canyon<br>Unit 
+ Count: 62<br>Gate Code: n/a<br>Manager (Name and Email): Liz Lorenzo - Liz.
+ Lorenzo@associahillcountry.com<br><u></u>Emily Douglas - <a href="mailto:ED
+ ouglas@associahillcountry.com"><u>EDouglas@associahillcountry.com</u></a><b
+ r>Property Main Address (Address\, City\, State\, Zip): 10810 Centennial Tr
+ ail\, Austin\, TX 78726<br>Trash/Recycling Day(s) – If it is not a violatio
+ n\, please state that: Wednesday<br>Inspection Frequency: twice a month<br>
+ Please indicate if this property also needs monitoring by walking\, alleywa
+ ys\, or both: no<br>Days Exempt other than trash days?<u></u><u></u><u></u>
+ <u></u><u></u><u></u>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.
+ google.com/qni-ovvb-bpw\nOr dial: (US) +1 347-508-5214 PIN: 766733314#\nMor
+ e phone numbers: https://tel.meet/qni-ovvb-bpw?pin=4739361823003&hs=7\n\nLe
+ arn more about Meet at: https://support.google.com/a/users/answer/9282720\n
+ \nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230119T202250Z
+LOCATION:10810 Centennial Trail\, Austin\, TX 78726
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:**Laurel Canyon - W62
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=HOA Onboarding - Deed Restriction 2022 (Laurel Canyon).pdf;
+ FMTTYPE=application/pdf:https://drive.google.com/open?id=1TW2uWUiR4cTCEbCmi
+ CaMQP-RM_BwvdrP&authuser=1
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230123
+DTEND;VALUE=DATE:20230124
+RRULE:FREQ=MONTHLY;BYDAY=4MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:avn1r199jbo5ctfksfk59veen9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220727T214830Z
+DESCRIPTION:<u></u>132 60 01012021<a href="http://voice.google.com/calls?a=
+ nc\,%2B16001012021"></a><br><br><b>1/20/23- </b><span><u>2811 Phoenix Drive
+ </u></span><b> </b><span>I was advised by the board president\, this house 
+ at The Falls of Fox Creek still has lights installed. When we have our next
+  inspection drive\, please be on the lookout for this house and take a pict
+ ure if they are in violation please.</span><br><b><br></b><br><b>12/21/22 -
+  </b>Kindly advise the property at <u>2002 Flagstaff Drive</u> has been rec
+ eiving trash can view violations and they have already fixed the issue. Ple
+ ase do not continue sending violations for this.<br><br><u></u><u></u><u></
+ u><u></u><b>Please violate any vehicles with car covers.</b><u></u><br><u><
+ /u><br>Property Management Company: Associa Hill Country<br>Property Name: 
+ The Falls at Fox Creek<br># Of Units: 132<br><b>Gate Code: 0603</b><br>Mana
+ ger (Name and Email): Liz Lorenzo - <a href="mailto:Liz.Lorenzo@associahill
+ country.com"><u><u>Liz.Lorenzo@associahillcountry.com</u></u></a> &amp\; Em
+ ily Douglas - <a href="mailto:EDouglas@associahillcountry.com">EDouglas@ass
+ ociahillcountry.com</a><br>Property Main Address (Street\, City\, State\, Z
+ ip): 2800 Phoenix Dr.\, Killeen\, TX 76543<br>Trash/Recycling Day(s) – If i
+ t is not a violation\, please state that: Tuesdays<br># Of drives per month
+ : Bi-Weekly<br>Days Exempt other than trash days?<br>Last Inspection rotati
+ on/days between-Date we can start: Can start ASAP<u></u><u></u><u></u><u></
+ u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T142938Z
+LOCATION:2800 Phoenix Dr\, Killeen\, TX 76543\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:**The Falls at Fox Creek - T132
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Falls at Fox Creek Onboarding - Deed Restriction ;FMTTY
+ PE=application/pdf:https://drive.google.com/open?id=19oNdBgY3gM7Mwmu8Zkavwr
+ Nn-1RPAN-e&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230202
+DTEND;VALUE=DATE:20230203
+RRULE:FREQ=MONTHLY;BYDAY=1TH
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:cg8e119ldr6hddibphv5r5id7d_R20230202@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220601T201657Z
+DESCRIPTION:132 60 21511123<a href="http://voice.google.com/calls?a=nc\,%2B
+ 16021511123"></a><a href="http://voice.google.com/calls?a=nc\,%2B1602151112
+ 3"></a><br><br><br><b>1/20/23- </b><u>2811 Phoenix Drive</u><b> </b>I was a
+ dvised by the board president\, this house at The Falls of Fox Creek still 
+ has lights installed. When we have our next inspection drive\, please be on
+  the lookout for this house and take a picture if they are in violation ple
+ ase.<br><b><br></b><br><b>12/21/22 - </b><span>Kindly advise the property a
+ t <u>2002 Flagstaff Drive</u> has been receiving trash can view violations 
+ and they have already fixed the issue. Please do not continue sending viola
+ tions for this.</span><br><br><u></u><u></u><u></u><u></u><b>Please violate
+  any vehicles with car covers.</b><u></u><br><u></u><br>Property Management
+  Company: Associa Hill Country<br>Property Name: The Falls at Fox Creek<br>
+ # Of Units: 132<br><b>Gate Code: 0603</b><br>Manager (Name and Email): Liz 
+ Lorenzo - <a href="mailto:Liz.Lorenzo@associahillcountry.com"><u>Liz.Lorenz
+ o@associahillcountry.com</u></a> &amp\; Emily Douglas - <a href="mailto:EDo
+ uglas@associahillcountry.com">EDouglas@associahillcountry.com</a><br>Proper
+ ty Main Address (Street\, City\, State\, Zip): 2800 Phoenix Dr.\, Killeen\,
+  TX 76543<br>Trash/Recycling Day(s) – If it is not a violation\, please sta
+ te that: Tuesdays<br># Of drives per month: Bi-Weekly<br>Days Exempt other 
+ than trash days?<br>Last Inspection rotation/days between-Date we can start
+ : Can start ASAP<u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T143004Z
+LOCATION:2800 Phoenix Dr\, Killeen\, TX 76543\, USA
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:*The Falls at Fox Creek - T132
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=The Falls at Fox Creek Onboarding - Deed Restriction ;FMTTY
+ PE=application/pdf:https://drive.google.com/open?id=19oNdBgY3gM7Mwmu8Zkavwr
+ Nn-1RPAN-e&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230119
+DTEND;VALUE=DATE:20230120
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - ATX:mailto:c_63cf523d1fef706129e527a9a38ccc70
+ 555c80b21faba4d97ace451bc06224c8@group.calendar.google.com
+UID:0pri9u5isnkeetfrmhlfmlhuuk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230119
+CREATED:20230107T171949Z
+DESCRIPTION:190 60 01052023<a href="http://voice.google.com/calls?a=nc\,%2B
+ 16001052023"></a><br><br><b>*Drive Thursdays Only</b><br><br>Property Manag
+ ement Company: Associa Hill Country<br>Community Name: Meadow Park<br>Unit 
+ Count: 190<br>Gate Code: N/A<br>Manager (Name and Email): Tea Basquez\, <a 
+ href="mailto:Tea.Basquez@associa.us">Tea.Basquez@associa.us</a> &amp\; Eric
+ ka Aguirre - <a href="mailto:Ericka.Aguirre@associahillcountry.com"><u>Eric
+ ka.Aguirre@associahillcountry.com</u></a><br>Property Main Address (Address
+ \, City\, State\, Zip): Reliance Drive Buda\, TX 78610<br>Trash/Recycling D
+ ay(s) – If it is not a violation\, please state that: Drive <b>Thursdays on
+ ly</b><br>Inspection Frequency: Once a month<br>Please indicate if this pro
+ perty also needs monitoring by walking\, alleyways\, or both: N/A<br>Days E
+ xempt other than trash days? N/A<br>Last Inspection date/when can we begin 
+ inspections: Can begin immediately
+LAST-MODIFIED:20230120T181302Z
+LOCATION:Reliance Dr\, Buda\, TX 78610\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Meadow Park - 190Ronly
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Meadow Park Onboarding 2023 - Deed Restrictions ;FMTTYPE=ap
+ plication/vnd.openxmlformats-officedocument.wordprocessingml.document:https
+ ://drive.google.com/open?id=124GHiOzfAQt1tlR-BB6y278GE6LOT4GY&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230121
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:4h4mbht8vqldh3gvf7270rg2ku_R20230116@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+RECURRENCE-ID;VALUE=DATE:20230116
+CREATED:20220808T170438Z
+DESCRIPTION:<b><u>170 60 01012022<a href="http://voice.google.com/calls?a=n
+ c\,%2B16001012022"></a><a href="http://voice.google.com/calls?a=nc\,%2B1600
+ 1012022"></a><a href="http://voice.google.com/calls?a=nc\,%2B16001012022"><
+ /a></u></b><br><b><u><br></u></b><u></u><b><u>***MUST USE THE SMARTWEBS APP
+  ONLY***</u></b><u></u><br><u></u><b><u>Put in the queue only - Do not send
+ </u></b><b><u><br></u></b><br><u></u><u></u><b><u>You will also have to wal
+ k some on this property - see note below.</u></b><br><br>Property Managemen
+ t Company: Associa Hill Country<br>Community Name: Swenson Community Associ
+ ation<br>Unit Count:        170<br>Gate Code:    N/A<br>Manager (Name and E
+ mail):    Gabrielle Hanson <a href="mailto:gabrielle.hanson@associa.us">gab
+ rielle.hanson@associa.us</a><br>Trash/Recycling Day(s) – If it is not a vio
+ lation\, please state that: Wednesday<br>Inspection Frequency: 2x per month
+  on Mondays or Fridays<br>Please indicate if this property also needs monit
+ oring by walking\, alleyways\, or both:<b> walking around the playground on
+  Pear Crt. The sidewalk area is city property but needs to be maintained at
+  the fence line by owners.</b><br>Days Exempt other than trash days? None. 
+ <b>There are multiple trash bulk pick-ups as requested by the owner. </b><u
+ ></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T202710Z
+LOCATION:1101 Swenson Farms Blvd\, Pflugerville\, TX 78660\, USA
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:**Swenson C.A. (SW) - TWR170
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=HOA Onboarding - Swenson Farms August UPDATED.docx;FMTTYPE=
+ application/vnd.openxmlformats-officedocument.wordprocessingml.document:htt
+ ps://drive.google.com/open?id=1z1Jzf4prp9WZkWzZo9s31hLnr14KXZNp&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Swenson Community Association Special Instructions;FMTTYPE=
+ application/vnd.google-apps.document:https://drive.google.com/open?id=12lcF
+ OvGU5bMiOJjCoBaSFJM7hPOHs7uA5hcWJJWESgE&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230220
+DTEND;VALUE=DATE:20230221
+RRULE:FREQ=MONTHLY;BYDAY=3MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:4h4mbht8vqldh3gvf7270rg2ku_R20230220@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220808T170438Z
+DESCRIPTION:<b><u>170 60 01012022<a href="http://voice.google.com/calls?a=n
+ c\,%2B16001012022"></a><a href="http://voice.google.com/calls?a=nc\,%2B1600
+ 1012022"></a><a href="http://voice.google.com/calls?a=nc\,%2B16001012022"><
+ /a></u></b><br><b><u><br></u></b><u></u><b><u>***MUST USE THE SMARTWEBS APP
+  ONLY***</u></b><u></u><br><u></u><b><u>Put in the queue only - Do not send
+ </u></b><b><u><br></u></b><br><u></u><u></u><b><u>You will also have to wal
+ k some on this property - see note below.</u></b><br><br>Property Managemen
+ t Company: Associa Hill Country<br>Community Name: Swenson Community Associ
+ ation<br>Unit Count:        170<br>Gate Code:    N/A<br>Manager (Name and E
+ mail):    Gabrielle Hanson <a href="mailto:gabrielle.hanson@associa.us">gab
+ rielle.hanson@associa.us</a><br>Trash/Recycling Day(s) – If it is not a vio
+ lation\, please state that: Wednesday<br>Inspection Frequency: 2x per month
+  on Mondays or Fridays<br>Please indicate if this property also needs monit
+ oring by walking\, alleyways\, or both:<b> walking around the playground on
+  Pear Crt. The sidewalk area is city property but needs to be maintained at
+  the fence line by owners.</b><br>Days Exempt other than trash days? None. 
+ <b>There are multiple trash bulk pick-ups as requested by the owner. </b><u
+ ></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T202710Z
+LOCATION:1101 Swenson Farms Blvd\, Pflugerville\, TX 78660\, USA
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:**Swenson C.A. (SW) - TWR170
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=HOA Onboarding - Swenson Farms August UPDATED.docx;FMTTYPE=
+ application/vnd.openxmlformats-officedocument.wordprocessingml.document:htt
+ ps://drive.google.com/open?id=1z1Jzf4prp9WZkWzZo9s31hLnr14KXZNp&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Swenson Community Association Special Instructions;FMTTYPE=
+ application/vnd.google-apps.document:https://drive.google.com/open?id=12lcF
+ OvGU5bMiOJjCoBaSFJM7hPOHs7uA5hcWJJWESgE&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230206
+DTEND;VALUE=DATE:20230207
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:pp1t69ninjq14k34bm3bkbe3cb_R20230206@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220725T153144Z
+DESCRIPTION:170 60 010722<br><b><u><br></u></b><b><u>***MUST USE THE SMARTW
+ EBS APP ONLY***</u></b><u></u><br><u></u><b><u>Put in the queue only - Do n
+ ot send</u></b><b><u><br></u></b><br><u></u><b><u>**You will also have to w
+ alk some on this property - see note below.</u></b><br><b><u><br></u></b>Pr
+ operty Management Company: Associa Hill Country<br>Community Name: Swenson 
+ Community Association<br>Unit Count:        170<br>Gate Code:    N/A<br>Man
+ ager (Name and Email):    Gabrielle Hanson <a href="mailto:gabrielle.hanson
+ @associa.us">gabrielle.hanson@associa.us</a><br>Trash/Recycling Day(s) – If
+  it is not a violation\, please state that: Wednesday<br>Inspection Frequen
+ cy: 2x per month on Mondays or Fridays<br>Please indicate if this property 
+ also needs monitoring by walking\, alleyways\, or both:<b> walking around t
+ he playground on Pear Crt. The sidewalk area is city property but needs to 
+ be maintained at the fence line by owners.</b><br>Days Exempt other than tr
+ ash days? None. <b>There are multiple trash bulk pick-ups as requested by t
+ he owner. </b><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T202926Z
+LOCATION:1101 Swenson Farms Blvd\, Pflugerville\, TX 78660\, USA
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:*Swenson C.A. (SW) - TWR170
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=HOA Onboarding - Swenson Farms August UPDATED.docx;FMTTYPE=
+ application/vnd.openxmlformats-officedocument.wordprocessingml.document:htt
+ ps://drive.google.com/open?id=1z1Jzf4prp9WZkWzZo9s31hLnr14KXZNp&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+ATTACH;FILENAME=Swenson Community Association Special Instructions;FMTTYPE=
+ application/vnd.google-apps.document:https://drive.google.com/open?id=12lcF
+ OvGU5bMiOJjCoBaSFJM7hPOHs7uA5hcWJJWESgE&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+DTEND;VALUE=DATE:20230121
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:a8f4rqflhd1u2nrtbc9733h12k_R20230120@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220727T160059Z
+DESCRIPTION:119 50 08052022<br><br><u></u><u></u><u></u><u></u><u></u><u></
+ u><u></u>Property Management Company: Associa Hill Country<br>Community Nam
+ e: Diamond Oaks Condominium Community Inc.<br>Unit Count: 119<br>Gate Code:
+   The inspector code for Associa communities is <b>#0906/0906</b>. The code
+  is meant only for the inspector teams and is not to be provided to anyone 
+ else\, including Managers or other Associa employees.<br>Manager (Name and 
+ Email): Emily Douglas - <a href="mailto:edouglas@assoicahillcountry.com"><u
+ ><u>edouglas@assoicahillcountry.com</u></u></a> &amp\; Mika Price -  Mika.P
+ rice@associahillcountry.com<br>Property Main Address (Address\, City\, Stat
+ e\, Zip): 3750 E Palm Valley Blvd.\, Round Rock\, TX 78665<br>Trash/Recycli
+ ng Day(s) – Every Wednesday trash\; every other Weds recycling.<br>Only pla
+ ced on the street within 24 hours of pick-up day. Containers should not be 
+ visible from the street at any other time.<br>Inspection Frequency: 2/month
+ <br>Please indicate if this property also needs monitoring by walking\, all
+ eyways\, or both:<br>Days Exempt other than trash days?<br>Last Inspection 
+ rotation/days between-Date we can start: requested start date 8/5<u></u><u>
+ </u><u></u><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T203316Z
+LOCATION:3750 E Palm Valley Blvd\, Round Rock\, TX 78665\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:**Diamond Oaks Condo Community - W119
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Diamond Oaks Community Manual - FINE POLICY;FMTTYPE=applica
+ tion/pdf:https://drive.google.com/open?id=14JSQWbCeC7Zq7rYyT5Y3Ih_9Ph8A6eyV
+ &authuser=2
+ATTACH;FILENAME=Diamond Oaks Condo. Comm. - RECORDED - DOCCI First Suppleme
+ nt;FMTTYPE=application/pdf:https://drive.google.com/open?id=1MK_ifcU_NtyGnv
+ d4MC_ksJ8ihG6gXLFf&authuser=2
+ATTACH;FILENAME=Diamond Oaks Condo Community Onboarding - Deed Restriction 
+ 2022.docx;FMTTYPE=application/vnd.openxmlformats-officedocument.wordprocess
+ ingml.document:https://drive.google.com/open?id=1g53DyqKbQow7r8GhDggqc3oEYY
+ _xMS7O&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230203
+DTEND;VALUE=DATE:20230204
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:btvo1os6317spil4vi3ta542k5_R20230203@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220727T152906Z
+DESCRIPTION:119 50 36946549654<br><br><u></u><u></u><u></u><u></u><u></u><u
+ ></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u>Property Manag
+ ement Company: Associa Hill Country<br>Community Name: Diamond Oaks Condomi
+ nium Community Inc.<br>Unit Count: 119<br>Gate Code: The inspector code for
+  Associa communities is <b>#0906/0906</b>. The code is meant only for the i
+ nspector teams and is not to be provided to anyone else\, including Manager
+ s or other Associa employees.<br>Manager (Name and Email): Emily Douglas - 
+ <a href="mailto:edouglas@assoicahillcountry.com"><u><u><u>edouglas@assoicah
+ illcountry.com</u></u></u></a> &amp\; Mika Price -  Mika.Price@associahillc
+ ountry.com<br><span>Property Main Address (Address\, City\, State\, Zip): 3
+ 750 E Palm Valley Blvd.\, Round Rock\, TX 78665</span><br><u></u>Trash/Recy
+ cling Day(s) – Every Wednesday trash\; every other Weds recycling.<br>Only 
+ placed on the street within 24 hours of pick-up day. Containers should not 
+ be visible from the street at any other time.<br>Inspection Frequency: 2/mo
+ nth<br>Please indicate if this property also needs monitoring by walking\, 
+ alleyways\, or both:<br>Days Exempt other than trash days?<br>Last Inspecti
+ on rotation/days between-Date we can start: requested start date 8/5<u></u>
+ <u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></
+ u><u></u><u></u>
+LAST-MODIFIED:20230120T203413Z
+LOCATION:3750 E Palm Valley Blvd\, Round Rock\, TX 78665\, USA
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:*Diamond Oaks Condo Community - W119
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Diamond Oaks Community Manual - FINE POLICY;FMTTYPE=applica
+ tion/pdf:https://drive.google.com/open?id=14JSQWbCeC7Zq7rYyT5Y3Ih_9Ph8A6eyV
+ &authuser=2
+ATTACH;FILENAME=Diamond Oaks Condo. Comm. - RECORDED - DOCCI First Suppleme
+ nt;FMTTYPE=application/pdf:https://drive.google.com/open?id=1MK_ifcU_NtyGnv
+ d4MC_ksJ8ihG6gXLFf&authuser=2
+ATTACH;FILENAME=Diamond Oaks Condo Community Onboarding - Deed Restriction 
+ 2022.docx;FMTTYPE=application/vnd.openxmlformats-officedocument.wordprocess
+ ingml.document:https://drive.google.com/open?id=1g53DyqKbQow7r8GhDggqc3oEYY
+ _xMS7O&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230206
+DTEND;VALUE=DATE:20230207
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:0t5hj913d7hl5st6bjpj816n05@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20230111T071002Z
+DESCRIPTION:473 80 102021<b><br></b><br><b>**Make sure to look at the attac
+ hment for Special Instructions - updated 12/16/22.</b><br><br><u></u><u></u
+ >Property Management Company: Associa Hill Country<br>Property Name: Fairwa
+ ys of Blackhawk<br># Of Units: 473<br>Gate Code:<br>Manager (Name and Email
+ ): Email all 3<u></u><br><u></u>Nataly Mendoza - <a href="mailto:Nataly.Men
+ doza@associahillcountry.com" target="_blank"><u>Nataly.Mendoza@associahillc
+ ountry.com</u></a><br>Miriam Cocciante - <a href="mailto:Miriam.Cocciante@a
+ ssociahillcountry.com" target="_blank"><u>Miriam.Cocciante@associahillcount
+ ry.com</u></a> <br>Property Main Address (Street\, City\, State\, Zip): 195
+ 08 Kennemer\, Pflugerville\, TX 78660<br>Trash/Recycling Day(s) – If it is 
+ not a violation\, please state that: Friday<br># Of drives per month: Twice
+  a month<br>Days Exempt other than trash days?<br>Last Inspection rotation/
+ days between-Date we can start: Can start ASAP<u></u><u></u><u></u><u></u><
+ u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T203926Z
+LOCATION:19508 Kennemer Dr\, Pflugerville\, TX 78660\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:*Fairways of Blackhawk - FSU473
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Fairways of Blackhawk Onboarding - Deed Restriction ;FMTTYP
+ E=application/pdf:https://drive.google.com/open?id=1ISy0hDcqhEypPaFlnU4HUSt
+ UDDwnk-By&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+ATTACH;FILENAME=Fairways of Blackhawk Special Instructions;FMTTYPE=applicat
+ ion/vnd.google-apps.document:https://drive.google.com/open?id=1tZV3fUaNGdmi
+ eTIqfFnYl2oZDk3egFzHRJo6bdkFMeI&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230220
+DTEND;VALUE=DATE:20230221
+RRULE:FREQ=MONTHLY;BYDAY=3MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:ac3ttpr9sr2r6kbpeudnjolenk_R20230220@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220614T142411Z
+DESCRIPTION:473 80 102021<b><br /></b><br /><b>**Make sure to look at the a
+ ttachment for Special Instructions - updated 12/16/22.</b><br /><br /><u></
+ u><u></u>Property Management Company: Associa Hill Country<br />Property Na
+ me: Fairways of Blackhawk<br /># Of Units: 473<br />Gate Code:<br />Manager
+  (Name and Email): Email all 3<u></u><br /><u></u>Nataly Mendoza - <a href=
+ "mailto:Nataly.Mendoza@associahillcountry.com"><u>Nataly.Mendoza@associahil
+ lcountry.com</u></a><br />Miriam Cocciante - <a href="mailto:Miriam.Coccian
+ te@associahillcountry.com"><u>Miriam.Cocciante@associahillcountry.com</u></
+ a> <br />Property Main Address (Street\, City\, State\, Zip): 19508 Kenneme
+ r\, Pflugerville\, TX 78660<br />Trash/Recycling Day(s) – If it is not a vi
+ olation\, please state that: Friday<br /># Of drives per month: Twice a mon
+ th<br />Days Exempt other than trash days?<br />Last Inspection rotation/da
+ ys between-Date we can start: Can start ASAP<u></u><u></u><u></u><u></u><u>
+ </u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T203955Z
+LOCATION:19508 Kennemer Dr\, Pflugerville\, TX 78660\, USA
+SEQUENCE:13
+STATUS:CONFIRMED
+SUMMARY:**Fairways of Blackhawk - FSU473
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Fairways of Blackhawk Onboarding - Deed Restriction ;FMTTYP
+ E=application/pdf:https://drive.google.com/open?id=1ISy0hDcqhEypPaFlnU4HUSt
+ UDDwnk-By&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=2
+ATTACH;FILENAME=Fairways of Blackhawk Special Instructions;FMTTYPE=applicat
+ ion/vnd.google-apps.document:https://drive.google.com/open?id=1tZV3fUaNGdmi
+ eTIqfFnYl2oZDk3egFzHRJo6bdkFMeI&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230206
+DTEND;VALUE=DATE:20230207
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:nsejhiu2pleh7nrsim72m7krk9_R20230206@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ dreljohnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220913T164350Z
+DESCRIPTION:602 80 080122<br><br><u></u><u></u><u></u><u></u><b><u>***MUST 
+ USE THE SMARTWEBS APP ONLY***</u></b><u></u><br><u></u><b><u>Put in the que
+ ue only - Do not send</u></b><br><br><b><u>This is a drive order only.<br><
+ /u></b><u></u><br>Property Management Company: Associa Hill Country<br>Comm
+ unity Name: Highland Park North Homeowners Association\, Inc.<br>Unit Count
+ : 602<br>Gate Code: n/a<br>Manager (Name and Email): Emily Douglas - <a hre
+ f="mailto:Emily.Douglas@associa.us"><u>Emily.Douglas@associa.us</u></a> &am
+ p\; Lisa Paulk - <a href="mailto:Lisa.Paulk@associa.us"><u>Lisa.Paulk@assoc
+ ia.us</u></a> &amp\; Judy Percy\, President 512-809-4498 <a href="http://vo
+ ice.google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice
+ .google.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.go
+ ogle.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.googl
+ e.com/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.google.c
+ om/calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.google.com/
+ calls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.google.com/cal
+ ls?a=nc\,%2B15128094498"><u></u></a><a href="http://voice.google.com/calls?
+ a=nc\,%2B15128094498"><u></u></a><a href="http://voice.google.com/calls?a=n
+ c\,%2B15128094498"><u></u></a><a href="http://voice.google.com/calls?a=nc\,
+ %2B15128094498"><u></u></a><a href="http://voice.google.com/calls?a=nc\,%2B
+ 15128094498"><u></u></a><a href="http://voice.google.com/calls?a=nc\,%2B151
+ 28094498"><u></u></a><a href="http://voice.google.com/calls?a=nc\,%2B151280
+ 94498"><u></u></a><a href="http://voice.google.com/calls?a=nc\,%2B151280944
+ 98"><u></u></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"
+ ><u></u></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"><u
+ ></u></a><a href="mailto:hpnpresident@gmail.com"><u>hpnpresident@gmail.com<
+ /u></a><br>Property Main Address (Address\, City\, State\, Zip):<br>Amenity
+  Area - 700 Kingston Lacy Blvd\, Pflugerville TX 78660<br>Mailing Address -
+  c/o Associa Hill Country\, 2300 Greenhill Dr. Bldg 10\, Suite 1010\, Round
+  Rock\, Texas 78664<br>Trash/Recycling Day(s) – If it is not a violation\, 
+ please state that:<br>Thursday (exception – moves to Friday on holiday week
+ s of Thanksgiving\, Christmas\, and New Year)<br><b>Trash is not a violatio
+ n between 5 pm the previous day and 6 pm the following day (e.g. Wed 5 pm t
+ o Fri 6 pm for Thursday pickup)</b><br>Inspection Frequency: Every 2 weeks 
+ (2x month) – <b>no inspections Thursday or Friday</b><br>Please indicate if
+  this property also needs monitoring by walking\, alleyways\, or both:<br><
+ b> During one inspection visit per month\, (Complete the 3rd week of the m
+ onth only) Agent will physically inspect the Association's common areas oth
+ er than the walking trails\, including the Amenity Area/Building\, Park(s)\
+ , and Entrances. The board will be provided with a report of this inspectio
+ n and any issues will be noted.</b><br>Days Exempt other than trash days? N
+ one<br>Last Inspection rotation/days between-Date we can start:<br> The la
+ st drive inspection was 8/10-8/12 so the next inspection could be next week
+  Mon-Wed 9/5- 9/7/22<br> The last monthly was July 7\, and the last quarte
+ rly was May 18 – both are due<u></u><u></u><u></u><u></u><u></u><br><u></u>
+ <b>Note: The One Inspection visit per quarterly is listed separately in the
+  calendar.</b><br><u></u><u></u><u></u><u></u><u></u><u></u><u></u><u></u><
+ u></u><u></u><u></u>
+LAST-MODIFIED:20230120T223950Z
+LOCATION:700 Kingston Lacy Blvd\, Pflugerville\, TX 78660\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:*Highland Park North HA(SW)-RF602-Drive Only
+TRANSP:TRANSPARENT
+ATTACH;FILENAME="Declarations of Covenants, Conditions and Restictions - Hi
+ ghland Park North HOA.pdf";FMTTYPE=application/pdf:https://drive.google.com
+ /open?id=1DuV1QEFR780hcTb1kMdRQQhLyn0vXn-I&authuser=2
+ATTACH;FILENAME=Common_Area_Inspection_-_Quarterly_Report_-_HPN.xlsx;FMTTYP
+ E=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet:https:/
+ /drive.google.com/open?id=1H9vDZmp0ZHXnOqzVKn9TBxDFeMztGSOB&authuser=2
+ATTACH;FILENAME=HPN CCR Supplemental Guidelines (adopted 06-21-2022) - fina
+ l.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=1MiunYH8wWHP
+ rlBaUBOxXwKGyNb32odCm&authuser=2
+ATTACH;FILENAME=Highland Park North HOA Onboarding 8-30-22.docx;FMTTYPE=app
+ lication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:
+ //drive.google.com/open?id=1Y3PitNtOT4KY-8Upekjk8aIIHMkRPRLL&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230117
+DTEND;VALUE=DATE:20230118
+RRULE:FREQ=MONTHLY;UNTIL=20230220;BYDAY=3TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:tp91g4uurb7pp4n7al556cg6c1@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220913T164252Z
+DESCRIPTION:602 80 02022022<br><b><u><br></u></b><br><u></u><u></u><u></u><
+ u></u><b><u>***MUST USE THE SMARTWEBS APP ONLY***</u></b><u></u><br><u></u>
+ <b><u>Put in the queue only - Do not send</u></b><b><br></b><u></u><br><b>*
+ *You will need to do both the Driving and the walking part of this drive.</
+ b><u></u><br><u></u><br> <b><u>During one inspection visit per month</u>\,
+  (Complete the 3rd week of the month only)</b> <b>Agent will physically ins
+ pect the Association's common areas other than the walking trails\, includi
+ ng the Amenity Area/Building\, Park(s)\, and Entrances. The board will be p
+ rovided with a report of this inspection and any issues will be noted.</b><
+ br><u></u><br>Property Management Company: Associa Hill Country<br>Communit
+ y Name: Highland Park North Homeowners Association\, Inc.<br>Unit Count: 60
+ 2<br>Gate Code: n/a<br>Manager (Name and Email): Emily Douglas - <a href="m
+ ailto:Emily.Douglas@associa.us">Emily.Douglas@associa.us</a> &amp\; Lisa Pa
+ ulk - <a href="mailto:Lisa.Paulk@associa.us">Lisa.Paulk@associa.us</a> &amp
+ \; Judy Percy\, President 512-809-4498 <a href="http://voice.google.com/cal
+ ls?a=nc\,%2B15128094498"></a><a href="http://voice.google.com/calls?a=nc\,%
+ 2B15128094498"></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094
+ 498"></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"></a><
+ a href="http://voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="ht
+ tp://voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="http://voice
+ .google.com/calls?a=nc\,%2B15128094498"></a><a href="http://voice.google.co
+ m/calls?a=nc\,%2B15128094498"></a><a href="http://voice.google.com/calls?a=
+ nc\,%2B15128094498"></a><a href="http://voice.google.com/calls?a=nc\,%2B151
+ 28094498"></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498">
+ </a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"></a><a hre
+ f="http://voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="http://
+ voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="http://voice.goog
+ le.com/calls?a=nc\,%2B15128094498"></a><a href="http://voice.google.com/cal
+ ls?a=nc\,%2B15128094498"></a><a href="mailto:hpnpresident@gmail.com">hpnpre
+ sident@gmail.com</a><br>Property Main Address (Address\, City\, State\, Zip
+ ):<br>Amenity Area - 700 Kingston Lacy Blvd\, Pflugerville TX 78660<br>Mail
+ ing Address - c/o Associa Hill Country\, 2300 Greenhill Dr. Bldg 10\, Suite
+  1010\, Round Rock\, Texas 78664<br>Trash/Recycling Day(s) – If it is not a
+  violation\, please state that:<br>Thursday (exception – moves to Friday on
+  holiday weeks of Thanksgiving\, Christmas\, and New Year)<br>Not a violati
+ on between 5 pm the previous day and 6 pm the following day (e.g. Wed 5 pm 
+ to Fri 6 pm for Thursday pickup)<br>Inspection Frequency: Every 2 weeks (2x
+  month) – no inspections Thursday or Friday<br>Please indicate if this prop
+ erty also needs monitoring by walking\, alleyways\, or both:<br><b> During
+  one inspection visit per month\, (Complete the 2nd Tuesday of the month on
+ ly) Agent will physically inspect the Association's common areas other than
+  the walking trails\, including the Amenity Area/Building\, Park(s)\, and E
+ ntrances. The board will be provided with a report of this inspection and a
+ ny issues will be noted.</b><br>Days Exempt other than trash days? None<br>
+ Last Inspection rotation/days between-Date we can start:<br> The last driv
+ e inspection was 8/10-8/12 so the next inspection could be next week Mon-We
+ d 9/5- 9/7/22<br> Last monthly July 7\, last quarterly May 18 – both are d
+ ue<br>Note: The One Inspection visit per quarterly is listed separately in 
+ the calendar.<br><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T224017Z
+LOCATION:700 Kingston Lacy Blvd\, Pflugerville\, TX 78660\, USA
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:**Highland Park North H.A. (SW) - RF602 - Walk & Drive
+TRANSP:TRANSPARENT
+ATTACH;FILENAME="Declarations of Covenants, Conditions and Restictions - Hi
+ ghland Park North HOA.pdf";FMTTYPE=application/pdf:https://drive.google.com
+ /open?id=1DuV1QEFR780hcTb1kMdRQQhLyn0vXn-I&authuser=2
+ATTACH;FILENAME=Common_Area_Inspection_-_Quarterly_Report_-_HPN.xlsx;FMTTYP
+ E=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet:https:/
+ /drive.google.com/open?id=1H9vDZmp0ZHXnOqzVKn9TBxDFeMztGSOB&authuser=2
+ATTACH;FILENAME=HPN CCR Supplemental Guidelines (adopted 06-21-2022) - fina
+ l.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=1MiunYH8wWHP
+ rlBaUBOxXwKGyNb32odCm&authuser=2
+ATTACH;FILENAME=Highland Park North HOA Onboarding 8-30-22.docx;FMTTYPE=app
+ lication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:
+ //drive.google.com/open?id=1Y3PitNtOT4KY-8Upekjk8aIIHMkRPRLL&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230221
+DTEND;VALUE=DATE:20230222
+RRULE:FREQ=MONTHLY;BYDAY=3TU
+DTSTAMP:20230121T013419Z
+ORGANIZER;CN=Associa Austin - Hill Country:mailto:c_44bv337k443q83adceq743p
+ 0bo@group.calendar.google.com
+UID:tp91g4uurb7pp4n7al556cg6c1_R20230221@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=andrel
+ johnsn@gmail.com;X-NUM-GUESTS=0:mailto:andreljohnsn@gmail.com
+CREATED:20220913T164252Z
+DESCRIPTION:602 140 02022022<a href="http://voice.google.com/calls?a=nc\,%2
+ B18002022022"></a><br><b><u><br></u></b><br><u></u><u></u><u></u><u></u><b>
+ <u>***MUST USE THE SMARTWEBS APP ONLY***</u></b><u></u><br><u></u><b><u>Put
+  in the queue only - Do not send</u></b><b><br></b><u></u><br><b>**You will
+  need to do both the Driving and the walking part of this drive.</b><u></u>
+ <br><u></u><br> <b><u>During one inspection visit per month</u>\, (Complet
+ e the 3rd week of the month only)</b> <b>Agent will physically inspect the 
+ Association's common areas other than the walking trails\, including the Am
+ enity Area/Building\, Park(s)\, and Entrances. The board will be provided w
+ ith a report of this inspection and any issues will be noted.</b><br><u></u
+ ><br>Property Management Company: Associa Hill Country<br>Community Name: H
+ ighland Park North Homeowners Association\, Inc.<br>Unit Count: 602<br>Gate
+  Code: n/a<br>Manager (Name and Email): Emily Douglas - <a href="mailto:Emi
+ ly.Douglas@associa.us">Emily.Douglas@associa.us</a> &amp\; Lisa Paulk - <a 
+ href="mailto:Lisa.Paulk@associa.us">Lisa.Paulk@associa.us</a> &amp\; Judy P
+ ercy\, President 512-809-4498 <a href="http://voice.google.com/calls?a=nc\,
+ %2B15128094498"></a><a href="http://voice.google.com/calls?a=nc\,%2B1512809
+ 4498"></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"></a>
+ <a href="http://voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="h
+ ttp://voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="http://voic
+ e.google.com/calls?a=nc\,%2B15128094498"></a><a href="http://voice.google.c
+ om/calls?a=nc\,%2B15128094498"></a><a href="http://voice.google.com/calls?a
+ =nc\,%2B15128094498"></a><a href="http://voice.google.com/calls?a=nc\,%2B15
+ 128094498"></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"
+ ></a><a href="http://voice.google.com/calls?a=nc\,%2B15128094498"></a><a hr
+ ef="http://voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="http:/
+ /voice.google.com/calls?a=nc\,%2B15128094498"></a><a href="http://voice.goo
+ gle.com/calls?a=nc\,%2B15128094498"></a><a href="http://voice.google.com/ca
+ lls?a=nc\,%2B15128094498"></a><a href="http://voice.google.com/calls?a=nc\,
+ %2B15128094498"></a><a href="mailto:hpnpresident@gmail.com">hpnpresident@gm
+ ail.com</a><br>Property Main Address (Address\, City\, State\, Zip):<br>Ame
+ nity Area - 700 Kingston Lacy Blvd\, Pflugerville TX 78660<br>Mailing Addre
+ ss - c/o Associa Hill Country\, 2300 Greenhill Dr. Bldg 10\, Suite 1010\, R
+ ound Rock\, Texas 78664<br>Trash/Recycling Day(s) – If it is not a violatio
+ n\, please state that:<br>Thursday (exception – moves to Friday on holiday 
+ weeks of Thanksgiving\, Christmas\, and New Year)<br>Not a violation betwee
+ n 5 pm the previous day and 6 pm the following day (e.g. Wed 5 pm to Fri 6 
+ pm for Thursday pickup)<br>Inspection Frequency: Every 2 weeks (2x month) –
+  no inspections Thursday or Friday<br>Please indicate if this property also
+  needs monitoring by walking\, alleyways\, or both:<br><b> During one insp
+ ection visit per month\, (Complete the 2nd Tuesday of the month only) Agent
+  will physically inspect the Association's common areas other than the walk
+ ing trails\, including the Amenity Area/Building\, Park(s)\, and Entrances.
+  The board will be provided with a report of this inspection and any issues
+  will be noted.</b><br>Days Exempt other than trash days? None<br>Last Insp
+ ection rotation/days between-Date we can start:<br> The last drive inspect
+ ion was 8/10-8/12 so the next inspection could be next week Mon-Wed 9/5- 9/
+ 7/22<br> Last monthly July 7\, last quarterly May 18 – both are due<br>Not
+ e: The One Inspection visit per quarterly is listed separately in the calen
+ dar.<br><u></u><u></u><u></u><u></u>
+LAST-MODIFIED:20230120T224017Z
+LOCATION:700 Kingston Lacy Blvd\, Pflugerville\, TX 78660\, USA
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:**Highland Park North H.A. (SW) - RF602 - Walk & Drive
+TRANSP:TRANSPARENT
+ATTACH;FILENAME="Declarations of Covenants, Conditions and Restictions - Hi
+ ghland Park North HOA.pdf";FMTTYPE=application/pdf:https://drive.google.com
+ /open?id=1DuV1QEFR780hcTb1kMdRQQhLyn0vXn-I&authuser=2
+ATTACH;FILENAME=Common_Area_Inspection_-_Quarterly_Report_-_HPN.xlsx;FMTTYP
+ E=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet:https:/
+ /drive.google.com/open?id=1H9vDZmp0ZHXnOqzVKn9TBxDFeMztGSOB&authuser=2
+ATTACH;FILENAME=HPN CCR Supplemental Guidelines (adopted 06-21-2022) - fina
+ l.pdf;FMTTYPE=application/pdf:https://drive.google.com/open?id=1MiunYH8wWHP
+ rlBaUBOxXwKGyNb32odCm&authuser=2
+ATTACH;FILENAME=Highland Park North HOA Onboarding 8-30-22.docx;FMTTYPE=app
+ lication/vnd.openxmlformats-officedocument.wordprocessingml.document:https:
+ //drive.google.com/open?id=1Y3PitNtOT4KY-8Upekjk8aIIHMkRPRLL&authuser=2
+ATTACH;FILENAME=Sequence of Letters - Austin Hill Country;FMTTYPE=applicati
+ on/vnd.google-apps.document:https://drive.google.com/open?id=1gmtBtTXAmi4oR
+ Atkqs7n1LOwYcHdgyBYIzidHANae6c&authuser=1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:andreljohnsn@gmail.com
+TRIGGER:-P0DT7H30M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
